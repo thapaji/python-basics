@@ -2,3 +2,6 @@
 .venv
 .idea
 .gitignore
+philosophers.txt
+sales.txt
+numbers.txt
