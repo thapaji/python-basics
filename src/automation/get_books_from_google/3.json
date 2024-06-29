@@ -44,13 +44,13 @@
     "damaged": 0
   },
   {
-    "title": "Taras Bulba",
-    "author": "Nikolái V. Gogol",
-    "isbn": "9788446023708",
+    "title": "Narrow Road To The Deep North, The",
+    "author": "Richard Flanagan",
+    "isbn": "9780857980366",
     "category": "Fiction",
-    "publishedYear": 2006,
-    "thumbnail": "http://books.google.com/books/content?id=XdMBTKWSfeMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "description": "Feroces, crueles, valientes y apasionados, los cosacos hacen temblar la estepa bajo los cascos de sus caballos. Y entre ellos se encuentra Taras Bulba, un anciano lleno aún de fuerza e inteligencia que junto a sus hijos, Ostap y Andrí, avanzará por tierras polacas con intención de vengar su fe ortodoxa burlada por los católicos. Ninguna guarnición, ciudad amurallada o iglesia podrán detenerlos, hasta que la desgracia se cierna sobre ellos y el apuesto y enamoradizo Andrí haga que su padre maldiga el día en que lo engendró. Taras Bulba, una anomalía entre la obra más conocida de Gogol, es una aventura trepidante, una sinfonía en perpetuo crescendo, en la que cada capítulo es más intenso y sorprendente que el anterior. un fresco tan afinadamente dibujado y tan vívido que resulta absolutamente intemporal.",
+    "publishedYear": 2014,
+    "thumbnail": "http://books.google.com/books/content?id=QeIBBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "Long-listed for the Man Booker Prize August, 1943. In the despair of a Japanese POW camp on the Thai-Burma Death Railway, Australian surgeon Dorrigo Evans is haunted by his affair with his uncle's young wife two years earlier. His life is a daily struggle to save the men under his command from starvation, from cholera, from pitiless beatings. Until he receives a letter that will change him forever. Moving deftly from the POW camp to contemporary Australia, from the experiences of Dorrigo and his comrades to those of the Japanese guards, this savagely beautiful novel tells a story of love, death, and family, exploring the many forms of good and evil, war and truth, guilt and transcendence, as one man comes of age, prospers, only to discover all that he has lost. \"From the Hardcover edition.\"",
     "count": 0,
     "damaged": 0
   },
@@ -407,17 +407,6 @@
     "damaged": 0
   },
   {
-    "title": "Alexander the Great",
-    "author": "Philip Freeman",
-    "isbn": "9781439193280",
-    "category": "History",
-    "publishedYear": 2011,
-    "thumbnail": "http://books.google.com/books/content?id=Br-Ho0rlFGwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "description": "An accessible yet authoritative biography of the Macedonian king and legendary conqueror—“as racy and pacey as any novel . . . a rollicking read” (Wall Street Journal). Alexander the Great is one of the most enduring figures in history. His military mastery was of such renown that future leaders from Hannibal to Napoleon studied his strategy and tactics. In the brief spa of his life—crowned at age nineteen and dead by thirty-two—he established the greatest empire of the ancient world. Born into the royal family of Macedonia, Alexander was tutored by Aristotle as a boy. Shortly after taking command, he launched an invasion of the Persian empire, and continued his conquests as far south as the deserts of Egypt and as far east as the mountains of present-day Pakistan and the plains of India. Within a short time after Alexander’s death in Baghdad, his empire began to fracture. In his lively and authoritative biography of Alexander, classical scholar and historian Philip Freeman describes Alexander’s astonishing achievements and provides insight into the mercurial character of the great conqueror. As Freeman explains, without Alexander, the influence of Greece on the ancient world would not have been nearly as great as it was.",
-    "count": 0,
-    "damaged": 0
-  },
-  {
     "title": "A Concise History of Greece",
     "author": "Richard Clogg",
     "isbn": "0521004799",
@@ -425,6 +414,17 @@
     "publishedYear": 2002,
     "thumbnail": "http://books.google.com/books/content?id=H5pyUIY4THYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "description": "This book provides a concise, illustrated introduction to the history of modern Greece, with a new final chapter about Greek history and politics to the present day. 56 illustrations. 10 maps.",
+    "count": 0,
+    "damaged": 0
+  },
+  {
+    "title": "The Nazi Doctors",
+    "author": "Robert Jay Lifton",
+    "isbn": "0465049052",
+    "category": "History",
+    "publishedYear": 1988,
+    "thumbnail": "http://books.google.com/books/content?id=zfH0l08UwusC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "Winner of the Los Angeles Times Book Prize With a new preface by the author In his most powerful and important book, renowned psychiatrist Robert Jay Lifton presents a brilliant analysis of the crucial role that German doctors played in the Nazi genocide. Now updated with a new preface, The Nazi Doctors remains the definitive work on the Nazi medical atrocities, a chilling exposé of the banality of evil at its epitome, and a sobering reminder of the darkest side of human nature.",
     "count": 0,
     "damaged": 0
   },
@@ -847,17 +847,6 @@
     "damaged": 0
   },
   {
-    "title": "Descartes: Meditations on First Philosophy",
-    "author": "René Descartes",
-    "isbn": "0521558182",
-    "category": "Philosophy",
-    "publishedYear": 1996,
-    "thumbnail": "http://books.google.com/books/content?id=yMwiTTpwasgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "description": "The Meditations, one of the key texts of Western philosophy, is the most widely studied of all Descartes' writings. This authoritative translation by John Cottingham, taken from the much acclaimed three-volume Cambridge edition of the Philosophical Writings of Descartes, is based upon the best available texts and presents Descartes' central metaphysical writings in clear, readable modern English. As well as the complete text of the Meditations, the reader will find a thematic abridgement of the Objections and Replies (which were originally published with the Meditations) containing Descartes' replies to his critics. These extracts, specially selected for the present volume, indicate the main philosophical difficulties which occurred to Descartes' contemporaries and show how Descartes developed and clarified his arguments in response. This edition contains a new comprehensive introduction to Descartes' philosophy by John Cottingham and the classic introductory essay on the Meditations by Bernard Williams.",
-    "count": 0,
-    "damaged": 0
-  },
-  {
     "title": "Phenomenology of Spirit",
     "author": "Georg Wilhelm Friedrich Hegel",
     "isbn": "8120814738",
@@ -865,6 +854,17 @@
     "publishedYear": 1998,
     "thumbnail": "http://books.google.com/books/content?id=xOnhG9tidGsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "description": "wide criticism both from Western and Eastern scholars.",
+    "count": 0,
+    "damaged": 0
+  },
+  {
+    "title": "Descartes: Meditations on First Philosophy",
+    "author": "René Descartes",
+    "isbn": "0521558182",
+    "category": "Philosophy",
+    "publishedYear": 1996,
+    "thumbnail": "http://books.google.com/books/content?id=yMwiTTpwasgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "The Meditations, one of the key texts of Western philosophy, is the most widely studied of all Descartes' writings. This authoritative translation by John Cottingham, taken from the much acclaimed three-volume Cambridge edition of the Philosophical Writings of Descartes, is based upon the best available texts and presents Descartes' central metaphysical writings in clear, readable modern English. As well as the complete text of the Meditations, the reader will find a thematic abridgement of the Objections and Replies (which were originally published with the Meditations) containing Descartes' replies to his critics. These extracts, specially selected for the present volume, indicate the main philosophical difficulties which occurred to Descartes' contemporaries and show how Descartes developed and clarified his arguments in response. This edition contains a new comprehensive introduction to Descartes' philosophy by John Cottingham and the classic introductory essay on the Meditations by Bernard Williams.",
     "count": 0,
     "damaged": 0
   },
@@ -968,17 +968,6 @@
     "damaged": 0
   },
   {
-    "title": "Physical Activity for Health and Fitness",
-    "author": "Allen W. Jackson",
-    "isbn": "0736052054",
-    "category": "Health and Fitness",
-    "publishedYear": 2004,
-    "thumbnail": "http://books.google.com/books/content?id=51yQ9ori8mAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "description": "Through this book, you can learn to use the latest life-changing information to improve your fitness and enhance your quality of life.",
-    "count": 0,
-    "damaged": 0
-  },
-  {
     "title": "The Big Book of Health and Fitness",
     "author": "Philip Maffetone",
     "isbn": "9781616083793",
@@ -986,6 +975,17 @@
     "publishedYear": 2012,
     "thumbnail": "http://books.google.com/books/content?id=n4tDCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "description": "Presents a guide to maintaining health and physical fitness, providing advice on nutrition, healthy eating, exercise, and preventive measures against disease.",
+    "count": 0,
+    "damaged": 0
+  },
+  {
+    "title": "Nutrition and Fitness",
+    "author": "Marshall Cavendish Corporation",
+    "isbn": "0761479392",
+    "category": "Health and Fitness",
+    "publishedYear": 2011,
+    "thumbnail": "http://books.google.com/books/content?id=9q7OkoguGl8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "Nutrition and Fitness provides detailed information on a wide variety of related topics that fall into the following five subject areas: body; diet and nutrition; human behavior; illness, injury, and disorders; and prevention and cure.",
     "count": 0,
     "damaged": 0
   }

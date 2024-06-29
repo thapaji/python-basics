@@ -1,0 +1,2258 @@
+[{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b67c"
+  },
+  "title": "Revising Fiction, Fact, and Faith",
+  "author": "Nathaniel Goldberg",
+  "isbn": "9781000164114",
+  "category": "Science Fiction",
+  "publishedYear": 2020,
+  "thumbnail": "http://books.google.com/books/content?id=5K7uDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "This book addresses how our revisionary practices account for relations between texts and how they are read. It offers an overarching philosophy of revision concerning works of fiction, fact, and faith, revealing unexpected insights about the philosophy of language, the metaphysics of fact and fiction, and the history and philosophy of science and religion. Using the novels of J.R.R. Tolkien as exemplars, the authors introduce a fundamental distinction between the purely physical and the linguistic aspects of texts. They then demonstrate how two competing theories of reference—descriptivism and referentialism—are instead constitutive of a single semantic account needed to explain all kinds of revision. The authors also propose their own metaphysical foundations of fiction and fact. The next part of the book brings the authors’ philosophy of revision into dialogue with Thomas Kuhn’s famous analysis of factual, and specifically scientific, change. It also discusses a complex episode in the history of paleontology, demonstrating how scientific and popular texts can diverge over time. Finally, the authors expand their philosophy of revision to religious texts, arguing that, rather than being distinct, such texts are always read as other kinds, that faith tends to be more important as evidence for religious texts than for others, and that the latter explains why religious communities tend to have remarkable historical longevity. Revising Fiction, Fact, and Faith offers a unique and comprehensive account of the philosophy of revision. It will be of interest to a wide range of scholars and advanced students working in philosophy of language, metaphysics, philosophy of literature, literary theory and criticism, and history and philosophy of science and religion.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:18.027Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b689"
+  },
+  "title": "Tripwire",
+  "author": "Lee Child",
+  "isbn": "9780857500069",
+  "category": "Thriller",
+  "publishedYear": 2011,
+  "thumbnail": "http://books.google.com/books/content?id=MBtctNppOJAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Jack Reacher's anonymity in Key West is shattered by the appearance of a private investigator who' come to town looking for him. But only hours after his arrival, the stranger is murdered. Retracing the PI's cold trail back to New York City, Reacher is compelled to find out who was looking for him and why. He never expected the reasons to be so personal, so dangerous, and so very twisted.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:39.891Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b68a"
+  },
+  "title": "The Harbinger",
+  "author": "Jonathan Cahn",
+  "isbn": "9781616386108",
+  "category": "Thriller",
+  "publishedYear": 2011,
+  "thumbnail": "http://books.google.com/books/content?id=nt2gYevSZrMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "\"The Harbinger opens with the appearance of a man burdened with a message he has received from a mysterious figure called The Prophet. The Prophet has given him nine seals, each containing a message about America's future ... As the story unfolds, each revelation becomes a piece in a greater puzzle -- the ramifications of which will even alter the course of world history.\"--Publisher's website.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:41.250Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b68d"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "isbn": "0192815032",
+  "category": "Romance",
+  "publishedYear": 1980,
+  "thumbnail": "http://books.google.com/books/content?id=EvqJCGeqKhsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "The text of Pride and Prejudice is the 1813 first edition text.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:45.857Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b694"
+  },
+  "title": "Follow the Rabbit-proof Fence",
+  "author": "Doris Pilkington",
+  "isbn": "9780702233555",
+  "category": "Biography",
+  "publishedYear": 2002,
+  "thumbnail": "http://books.google.com/books/content?id=gXCe38Uk4V4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Three mixed-race Australian girls, having been taken from their Aboriginal families, escape and return home on foot, without supplies or gear, while trying to evade recapture, in an account based on a true story.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:56.539Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b695"
+  },
+  "title": "Caesar",
+  "author": "Adrian Keith Goldsworthy",
+  "isbn": "UOM:39015066754972",
+  "category": "Biography",
+  "publishedYear": 2006,
+  "thumbnail": "http://books.google.com/books/content?id=YWRoAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "In this landmark biography, Goldsworthy places Caesar firmly within the context of Roman society in the first century B.C.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:57.657Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b697"
+  },
+  "title": "The Holocaust",
+  "author": "Laurence Rees",
+  "isbn": "9780241979952",
+  "category": "History",
+  "publishedYear": 2017,
+  "thumbnail": "http://books.google.com/books/content?id=iHMNDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "THE SUNDAY TIMES TOP 10 BESTSELLER AND THE FIRST AUTHORITATIVE ACCOUNT FOR 30 YEARS. 'By far the clearest book ever written about the Holocaust, and also the best at explaining its origins and grotesque mentality, as well as its chaotic development' Antony Beevor 'Groundbreaking. You might have thought that we know everything there is to know about the Holocaust but this book proves there is much more' Andrew Roberts, Mail on Sunday Two fundamental questions about the Holocaust must be answered: How did it happen? And why? More completely than any other single work of history yet published, Laurence Rees's Holocaust definitively answers them. 'With The Holocaust Rees has set himself the task of writing an accessible chronological account of the murder of six million Jews in conditions of scarcely imaginable horror. He's done it excellently. There is no shortage of books on the Holocaust but Rees's stands out as a readable and authoritative exposition of how and why it happened, and the barbarous methods by which it was pursued. The amount of ground it covers in 500 pages is remarkable - from the anti-Semitism of popular German literature of the 19th century to Hitler's suicide and the surrender of his regime. It's excellently written and skilfully interweaves narrative history, sound interpretation and the recollections (through interviews, listed in the notes as \"previously unpublished testimony\") of survivors. Rees provides an exemplary account of how the greatest crime in modern history came about' The Times 'Rees has distilled 25 years of research into this compelling study, the finest single-volume account of the Holocaust. It is not a book for the faint-hearted. Some of the first-hand testimony is both shocking and heart-rending. Yet it has important things to say about human nature - what our species is capable of doing if not prevented by civilized laws - and demands to be read' Saul David, Telegraph 'Anyone wanting a compelling, highly readable explanation of how and why the Holocaust happened, drawing on recent scholarship and impressively incorporating moving and harrowing interviews need look no further than Laurence Rees's brilliant book' Professor Ian Kershaw, bestselling author of Hitler",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:01:00.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b699"
+  },
+  "title": "The Nazi Doctors",
+  "author": "Robert Jay Lifton",
+  "isbn": "0465049052",
+  "category": "History",
+  "publishedYear": 1988,
+  "thumbnail": "http://books.google.com/books/content?id=zfH0l08UwusC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "Winner of the Los Angeles Times Book Prize With a new preface by the author In his most powerful and important book, renowned psychiatrist Robert Jay Lifton presents a brilliant analysis of the crucial role that German doctors played in the Nazi genocide. Now updated with a new preface, The Nazi Doctors remains the definitive work on the Nazi medical atrocities, a chilling exposé of the banality of evil at its epitome, and a sobering reminder of the darkest side of human nature.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:01:03.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b69a"
+  },
+  "title": "The Discarded Image",
+  "author": "C. S. Lewis",
+  "isbn": "0521477352",
+  "category": "History",
+  "publishedYear": 1994,
+  "thumbnail": "http://books.google.com/books/content?id=WADDM36d3TAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Hailed as \"the final memorial to the work of a great scholar and teacher and a wise and noble mind,\" this work paints a lucid picture of the medieval world view, as historical and cultural background to the literature of the Middle Ages and Renaissance.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:01:05.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b69d"
+  },
+  "title": "Homo Deus",
+  "author": "Yuval Noah Harari",
+  "isbn": "9781473545373",
+  "category": "Science",
+  "publishedYear": 2016,
+  "thumbnail": "http://books.google.com/books/content?id=dWYyCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "**THE MILLION COPY BESTSELLER** Sapiens showed us where we came from. In our increasingly uncertain times, Homo Deus shows us where we're going. 'Spellbinding' Guardian The world-renowned historian and intellectual Yuval Noah Harari envisions a near future in which we face a new set of challenges. Homo Deus explores the projects, dreams and nightmares that will shape the twenty-first century and beyond - from overcoming death to creating artificial life. It asks the fundamental questions: how can we protect this fragile world from our own destructive power? And what does our future hold? 'Even more readable, even more important, than his excellent Sapiens' Kazuo Ishiguro 'Homo Deus will shock you. It will entertain you. It will make you think in ways you had not thought before' Daniel Kahneman, bestselling author of Thinking, Fast and Slow",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:01:08.797Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6a1"
+  },
+  "title": "Dual-Process Theories in Moral Psychology",
+  "author": "Cordula Brand",
+  "isbn": "9783658120535",
+  "category": "Self-Help",
+  "publishedYear": 2016,
+  "thumbnail": "http://books.google.com/books/content?id=nQ3NCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "This anthology offers a unique collection of contributions focusing on the discussion about the so-called dual-process theories within the field of moral psychology. In general, dual-process theories state that in cognitive systems, two sorts of processes can be differentiated: an affective, associative process and an analytical, rule-based process. This distinction recently entered the debate on the relationship between intuitive and rational approaches to explaining the phenomenon of moral judgment. The increasing interest in these theories raises questions concerning their general impact on social contexts. The anthology aims at presenting stepping-stones of an analysis of the merits and drawbacks of this development. For that purpose, the authors discuss general questions concerning the relationship between ethics and empirical sciences, methodological questions, reassessments of established terminology and societal implications of dual-process theories in moral psychology.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:27.357Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6a6"
+  },
+  "title": "Dodo la planète do, 2",
+  "author": "Patrick Lacoursière",
+  "isbn": "2923163060",
+  "category": "Children's Books",
+  "publishedYear": 2006,
+  "thumbnail": "http://books.google.com/books/content?id=EFWE_psTodgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "Beautifully recorded lullabies from around the world are sung in the language of origin along with an illustrated bedtime story--in English, Spanish, and French--about an imaginary journey to unknown lands. Performers Sylva Balassanian, Mary Fujiwara Burke, Juan Jose Carranza, Hart-Rouge, H'sao, Paul Kunigis, and Nathalie Picard share their culture in offering lovely, warm lead vocals and harmonies, supported by a highly skilled group of musicians playing more than 30 different instruments. The earth-toned, dreamlike illustrations reflect both the subject and country of origin of each song.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:36.647Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6a7"
+  },
+  "title": "Entwicklungen in den Rechten der Kinder im Hinblick auf das UN-Übereinkommen über die Rechte des Kindes",
+  "author": "Maria Rauch-Kallat",
+  "isbn": "UOM:35112200581280",
+  "category": "Children's Books",
+  "publishedYear": 1994,
+  "thumbnail": "http://books.google.com/books/content?id=ENYoAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "No description available",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:37.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6ac"
+  },
+  "title": "Metamorphoses",
+  "author": "Ovid",
+  "isbn": "9780199537372",
+  "category": "Poetry",
+  "publishedYear": 2008,
+  "thumbnail": "http://books.google.com/books/content?id=UwQUDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "The modern, unacademic idiom of A.D. Melville's translation opens the way to a fresh understanding of Ovid's unique and elusive vision of reality.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:46.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b683"
+  },
+  "title": "The Messenger",
+  "author": "Markus Zusak",
+  "isbn": "0330363883",
+  "category": "Mystery",
+  "publishedYear": 2002,
+  "thumbnail": "http://books.google.com/books/content?id=2IEEZ76GXkkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "\"The Messenger is comedic, romantic, thrilling, confronting, playful, deceptive... While it shares qualities with Nick Hornby's How to Be Good and Iain Softley's film K-Pax, it is cleverer, subtler and more profound than either and, as a bonus, determinedly Australian.\" (Australian Book Review)Meet Ed Kennedy - cab driving prodigy, pathetic card player and useless at sex. He lives in a suburban shack, shares coffee with his dog, the Doorman, and he's in nervous love with Audrey. His life is one of peaceful routine and incompetence - until he inadvertently stops a bank robbery. That's when the first Ace turns up. That's when Ed becomes the messenger. Chosen to care, he makes his way through town, helping and hurting (where necessary) until only one question remains. Who's behind Ed's mission? The Messenger, by the highly acclaimed author Markus Zusak, is a cryptic journey filled with laughter, fists and love.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:28.738Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b684"
+  },
+  "title": "Loves Music, Loves to Dance",
+  "author": "Mary Higgins Clark",
+  "isbn": "9780671758899",
+  "category": "Mystery",
+  "publishedYear": 1992,
+  "thumbnail": "http://books.google.com/books/content?id=OHqsQwFrKO0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "A killer draws his victims from the women who respond to his personal ads in trendy New York magazines.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:29.873Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b68b"
+  },
+  "title": "The Visitor",
+  "author": "Lee Child",
+  "isbn": "9780553811889",
+  "category": "Thriller",
+  "publishedYear": 2001,
+  "thumbnail": "http://books.google.com/books/content?id=UGUahZnpa0MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Sergeant Amy Callan and Lieutenant Caroline Cook have a lot in common. Both were army high-flyers. Both were acquainted with Jack Reacher. Both were forced to resign from the service. Now they're both dead. Both were found in their own home, naked, in a bath full of paint. Both apparent victims of an army man. A loner, a smart guy with a score to settle, a ruthless vigilante. A man just like Jack Reacher.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:43.743Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6a5"
+  },
+  "title": "Muppet Babies' Classic Children's Tales",
+  "author": "Unknown",
+  "isbn": "0765197308",
+  "category": "Children's Books",
+  "publishedYear": 1996,
+  "thumbnail": "http://books.google.com/books/content?id=8Q0-iEkSctAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "A collection of fairy tales and folklore illustrated with photographs of the Muppet Babies portraying the characters.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:34.764Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6b2"
+  },
+  "title": "The Bright Ages",
+  "author": "Matthew Gabriele",
+  "isbn": "9780062980915",
+  "category": "Art",
+  "publishedYear": 2021,
+  "thumbnail": "http://books.google.com/books/content?id=UgwiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "\"The beauty and levity that Perry and Gabriele have captured in this book are what I think will help it to become a standard text for general audiences for years to come….The Bright Ages is a rare thing—a nuanced historical work that almost anyone can enjoy reading.”—Slate \"Incandescent and ultimately intoxicating.\" —The Boston Globe A lively and magisterial popular history that refutes common misperceptions of the European Middle Ages, showing the beauty and communion that flourished alongside the dark brutality—a brilliant reflection of humanity itself. The word “medieval” conjures images of the “Dark Ages”—centuries of ignorance, superstition, stasis, savagery, and poor hygiene. But the myth of darkness obscures the truth; this was a remarkable period in human history. The Bright Ages recasts the European Middle Ages for what it was, capturing this 1,000-year era in all its complexity and fundamental humanity, bringing to light both its beauty and its horrors. The Bright Ages takes us through ten centuries and crisscrosses Europe and the Mediterranean, Asia and Africa, revisiting familiar people and events with new light cast upon them. We look with fresh eyes on the Fall of Rome, Charlemagne, the Vikings, the Crusades, and the Black Death, but also to the multi-religious experience of Iberia, the rise of Byzantium, and the genius of Hildegard and the power of queens. We begin under a blanket of golden stars constructed by an empress with Germanic, Roman, Spanish, Byzantine, and Christian bloodlines and end nearly 1,000 years later with the poet Dante—inspired by that same twinkling celestial canopy—writing an epic saga of heaven and hell that endures as a masterpiece of literature today. The Bright Ages reminds us just how permeable our manmade borders have always been and of what possible worlds the past has always made available to us. The Middle Ages may have been a world “lit only by fire” but it was one whose torches illuminated the magnificent rose windows of cathedrals, even as they stoked the pyres of accused heretics. The Bright Ages contains an 8-page color insert.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:54.664Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b676"
+  },
+  "title": "Journey to the Center of the Earth",
+  "author": "Jules Verne",
+  "isbn": "9780553902549",
+  "category": "Fiction",
+  "publishedYear": 2006,
+  "thumbnail": "http://books.google.com/books/content?id=icKmd-tlvPMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "The intrepid Professor Lindenbrock embarks upon the strangest expedition of the nineteenth century: a journey down an extinct Icelandic volcano to the Earth’s very core. In his quest to penetrate the planet’s primordial secrets, the geologist—together with his quaking nephew Axel and their devoted guide, Hans—discovers an astonishing subterranean menagerie of prehistoric proportions. Verne’s imaginative tale is at once the ultimate science fiction adventure and a reflection on the perfectibility of human understanding and the psychology of the questor. As David Brin notes in his Introduction, though Verne never knew the term “science fiction,” Journey to the Centre of the Earth is “inarguably one of the wellsprings from which it all began.”",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:07.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b679"
+  },
+  "title": "A Reader's Guide to Australian Fiction",
+  "author": "Laurie Clancy",
+  "isbn": "UOM:39015029965954",
+  "category": "Science Fiction",
+  "publishedYear": 1992,
+  "thumbnail": "http://books.google.com/books/content?id=DedZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "This authoritative and comprehensive reference book is the first chronological account of the major Australian fiction writers from 1830 to the 1990s. Brief biographical information on the writers accompanies a critical discussion of the work. Each entry stands alone but the book can be read as a chronological account of the extraordinary development of Australian fiction over a period of 160 years.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:12.551Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b67a"
+  },
+  "title": "The History of Science Fiction",
+  "author": "A. Roberts",
+  "isbn": "9780230554658",
+  "category": "Science Fiction",
+  "publishedYear": 2005,
+  "thumbnail": "http://books.google.com/books/content?id=AajtCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "The History of Science Fiction traces the origin and development of science fiction from Ancient Greece up to the present day. The author is both an academic literary critic and acclaimed creative writer of the genre. Written in lively, accessible prose it is specifically designed to bridge the worlds of academic criticism and SF fandom.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:14.391Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b67d"
+  },
+  "title": "Peter Pan",
+  "author": "J. M. Barrie",
+  "isbn": "9780689830785",
+  "category": "Fantasy",
+  "publishedYear": 2001,
+  "thumbnail": "http://books.google.com/books/content?id=ogjljqn1R2kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "The adventures of Peter Pan, the boy who would not grow up.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:19.901Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b696"
+  },
+  "title": "Damascus",
+  "author": "Ross Burns",
+  "isbn": "9780415271059",
+  "category": "History",
+  "publishedYear": 2005,
+  "thumbnail": "http://books.google.com/books/content?id=SVR2cjWptCAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Lavishly illustrated, the first book in English to relate the history of Damascus, is a compelling and unique exploration of a fascinating city.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:59.554Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6a2"
+  },
+  "title": "Liberation in the Face of Uncertainty",
+  "author": "Hubert J. M. Hermans",
+  "isbn": "9781108844406",
+  "category": "Self-Help",
+  "publishedYear": 2022,
+  "thumbnail": "http://books.google.com/books/content?id=GCZTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "This book uses Dialogical Self Theory to respond to the challenges of climate change, well-being, and disenchantment of the world.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:28.437Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6b0"
+  },
+  "title": "Fun Home",
+  "author": "Alison Bechdel",
+  "isbn": "0618871713",
+  "category": "Art",
+  "publishedYear": 2007,
+  "thumbnail": "http://books.google.com/books/content?id=eq0n9Ck79ysC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "A fresh and brilliantly told memoir from a cult favorite comic artist, marked by gothic twists, a family funeral home, sexual angst, and great books. This breakout book by Alison Bechdel is a darkly funny family tale, pitch-perfectly illustrated with Bechdel's sweetly gothic drawings. Like Marjane Satrapi's Persepolis, it's a story exhilaratingly suited to graphic memoir form. Meet Alison's father, a historic preservation expert and obsessive restorer of the family's Victorian home, a third-generation funeral home director, a high school English teacher, an icily distant parent, and a closeted homosexual who, as it turns out, is involved with his male students and a family babysitter. Through narrative that is alternately heartbreaking and fiercely funny, we are drawn into a daughter's complex yearning for her father. And yet, apart from assigned stints dusting caskets at the family-owned \"fun home,\" as Alison and her brothers call it, the relationship achieves its most intimate expression through the shared code of books. When Alison comes out as homosexual herself in late adolescense, the denouement is swift, graphic -- and redemptive.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:52.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b681"
+  },
+  "title": "Through the Looking Glass",
+  "author": "Lewis Carroll",
+  "isbn": "NYPL:33433082531603",
+  "category": "Fantasy",
+  "publishedYear": 1897,
+  "thumbnail": "http://books.google.com/books/content?id=i2MCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "In this sequel to Alice in Wonderland, Alice climbs through a mirror in her room and enters a world similar to a chess board where she experiences many curious adventures with its fantastic inhabitants.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:26.902Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b690"
+  },
+  "title": "Last Sacrifice",
+  "author": "Richelle Mead",
+  "isbn": "9780141331881",
+  "category": "Romance",
+  "publishedYear": 2010,
+  "thumbnail": "http://books.google.com/books/content?id=Rwcpd5zqrrkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "The final heart wrenching episode at St Vladimir's Academy. Rose is on trial for high treason and the death of Queen Tatiana. Someone is trying to frame her and it looks like even Dimitri might not be able to save her now.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:52.084Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b692"
+  },
+  "title": "Lives of the Caesars",
+  "author": "Suetonius",
+  "isbn": "9780199537563",
+  "category": "Biography",
+  "publishedYear": 2000,
+  "thumbnail": "http://books.google.com/books/content?id=JsNxkG6Ai9sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "The Lives of the Caesars include the biographies of Julius Caesar and the eleven subsequent emperors: Augustus, Tiberius, Gaius Caligula, Claudius, Nero, Galba, Otho, Vitelius, Vespasian, Titus, Domitian. Suetonius composed his material from a variety of sources, without much concern for their reliability. His biographies consist the ancestry and career of each emperor in turn; however, his interest is not so much analytical or historical, but anecdotal and salacious which gives rise to a lively and provocative succession of portraits. The account of Julius Caesar does not simply mention his crossing of the Rubicon and his assassination, but draws attention to his dark piercing eyes and attempts to conceal his baldness. The Live of Caligula presents a vivid picture of the emperor's grotesque appearance, his waywardness, and his insane cruelties. The format and style of Suetonius' Lives of the Caesars was to set the tone for biography throughout western literature - his work remains thoroughly readable and full of interest. ABOUT THE SERIES: For over 100 years Oxford World's Classics has made available the widest range of literature from around the globe. Each affordable volume reflects Oxford's commitment to scholarship, providing the most accurate text plus a wealth of other valuable features, including expert introductions by leading authorities, helpful notes to clarify the text, up-to-date bibliographies for further study, and much more.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:53.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b698"
+  },
+  "title": "A Concise History of Greece",
+  "author": "Richard Clogg",
+  "isbn": "0521004799",
+  "category": "History",
+  "publishedYear": 2002,
+  "thumbnail": "http://books.google.com/books/content?id=H5pyUIY4THYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "This book provides a concise, illustrated introduction to the history of modern Greece, with a new final chapter about Greek history and politics to the present day. 56 illustrations. 10 maps.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:01:01.585Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b69e"
+  },
+  "title": "Quaternary Extinctions",
+  "author": "Paul S. Martin",
+  "isbn": "0816511004",
+  "category": "Science",
+  "publishedYear": 1989,
+  "thumbnail": "http://books.google.com/books/content?id=qIDC7ybvHQEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "What caused the extinction of so many animals at or near the end of the Pleistocene? Was it overkill by human hunters, the result of a major climatic change or was it just a part of some massive evolutionary turnover? Questions such as these have plagued scientists for over one hundred years and are still being heatedly debated today. Quaternary Extinctions presents the latest and most comprehensive examination of these questions. ÑGeological Magazine \"May be regarded as a kind of standard encyclopedia for Pleistocene vertebrate paleontology for years to come.\" ÑAmerican Scientist \"Should be read by paleobiologists, biologists, wildlife managers, ecologists, archeologists, and anyone concerned about the ongoing extinction of plants and animals.\" ÑScience \"Uncommonly readable and varied for watchers of paleontology and the rise of humankind.\" ÑScientific American \"Represents a quantum leap in our knowledge of Pleistocene and Holocene palaeobiology. . . . Many volumes on our bookshelves are destined to gather dust rather than attention. But not this one.\" ÑNature \"Two strong impressions prevail when first looking into this epic compendium. One is the judicious balance of views that range over the whole continuum between monocausal, cultural, or environmental explanations. The second is that both the data base and theoretical sophistication of the protagonists in the debate have improved by a quantum leap since 1967.\" ÑAmerican Anthropologist",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:01:09.745Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b69f"
+  },
+  "title": "Human Impact on the Natural Environment",
+  "author": "Andrew S. Goudie",
+  "isbn": "9781119403739",
+  "category": "Science",
+  "publishedYear": 2018,
+  "thumbnail": "http://books.google.com/books/content?id=QvRgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "A brand new edition of the definitive textbook on humankind’s impact on the Earth’s environment—now in full color This classic text explores the multitude of impacts that humans have had over time upon vegetation, animals, soils, water, landforms, and the atmosphere. It considers the ways in which climate changes and modifications in land cover may change the environment in coming decades. Thoroughly revised to cover the remarkable transformation in interest that humans are having in the environment, this book examines previously uncovered topics, such as rewilding, ecosystem services, techniques for study, novel and no analogue ecosystems, and more. It also presents the latest views on big themes such as human origins, the anthropocene, domestication, extinctions, and ecological invasions. Extensively re-written, Human Impact on the Natural Environment, Eighth Edition contains many new and updated statistical tables, figures, and references. It offers enlightening chapters that look at the past and present state of the world—examining our impact on the land itself and the creatures that inhabit it; the oceans, lakes, rivers and streams; and the climate and atmosphere. The book also takes a deep look at our future impact on the planet and its resources—our affect on the coastal environments, the cryosphere and the drylands, as well as the hydrological and geomorphological impacts. Fully updated to take account of recent advances in our understanding of global warming and other phenomena Offers current opinions on such topics as human origins, the anthropocene, domestication, extinctions, and ecological invasions Features a full-color presentation to allow for more and clearer photographs and diagrams Contains more international case studies than previous editions to balance UK examples Human Impact on the Natural Environment is essential reading for undergraduates in geography and environmental science, and for those who want a thorough, wide-ranging and balanced overview of the impacts of humans upon natural processes and systems from the Stone Age to the Anthropocene and who wish to understand the major environmental issues that concern the human race at the present time.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:01:10.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6a0"
+  },
+  "title": "Empowerment of Women Through Self Help Groups",
+  "author": "G. Sreeramulu",
+  "isbn": "8178355019",
+  "category": "Self-Help",
+  "publishedYear": 2006,
+  "thumbnail": "http://books.google.com/books/content?id=Mmtn9-YpF6EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "The book is an in-depth study of Empowerment of Women Through Self Help Groups. It covers the problems and perspectives of Self Help Groups and suggest several measures. The study has evaluated the implementation of several schemes in Anantapur District in particular and in Andhra Pradesh in general such as rearing goats, dairying, petty business activities, making of soft toys and so on. The findings are very much encouraging, such as Women are now managing their families, Panchayat Raj Institutions, are able to concentrate on their children s education and health. Contents include: Introduction, Public Policy Theoretical Perspectives, Evaluation, Aims and Objectctives of Self Help Groups in Anantapur District, Socio-Economic Background of the Sample Study, Problems and perspectives of Self Help Groups, Performance of Self Help Groups and Conclusion. This outstanding Text-cum-Reference book will be of great use to Scholars, Administrators, Planners, Policy-makers, Statesmen and Students of Political Science, Economics, Sociology, Commerce and Women Studites.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:01:12.151Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6a4"
+  },
+  "title": "Measuring Ego Development",
+  "author": "Jane Loevinger",
+  "isbn": "UOM:39015054099638",
+  "category": "Self-Help",
+  "publishedYear": 1970,
+  "thumbnail": "http://books.google.com/books/content?id=cod9AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "No description available",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6aa"
+  },
+  "title": "The Riverside Chaucer",
+  "author": "Geoffrey Chaucer",
+  "isbn": "9780199552092",
+  "category": "Poetry",
+  "publishedYear": 2008,
+  "thumbnail": "http://books.google.com/books/content?id=E4DXD7Sk7WcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "A re-editing of F.N. Robinson's second edition of The works of Geoffrey Chaucer published in 1957 by the team of experts at the Riverside Institute who have greatly expanded the introductory material, explanatory notes, textual notes, bibliography and glossary. The result of many years' study. The Riverside Chaucer is the most authentic and exciting edition available of Chaucer's complete works.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:42.780Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6ad"
+  },
+  "title": "The Prophet",
+  "author": "Kahlil Gibran",
+  "isbn": "9781728432588",
+  "category": "Poetry",
+  "publishedYear": 2021,
+  "thumbnail": "http://books.google.com/books/content?id=05g0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Lebanese-American author Kahlil Gibran's The Prophet is one of the world's best-selling books of poetry. In twenty-six poetic essays, Gibran writes from the perspective of fictional prophet Almustafa, who has recently returned to his place of birth, Orphalese. The poems detail Almustafa's philosophies on important subjects such as crime and punishment, death, and marriage, as well as everyday subjects such as clothing and eating and drinking. Other poetic essays in The Prophet include \"Joy and Sorrow,\" \"Freedom,\" and \"Good and Evil.\" This unabridged edition was first published in 1923.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:47.311Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6ae"
+  },
+  "title": "Rosmersholm",
+  "author": "Henrik Ibsen",
+  "isbn": "9788711799918",
+  "category": "Poetry",
+  "publishedYear": 2017,
+  "thumbnail": "http://books.google.com/books/content?id=iChADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Dramaet \"Rosmersholm\" fra 1886 anses af mange kritikere for at være Henrik Ibsens mesterværk. Det udspiller sig på en gammel herregård i det sydlige Norge, hvor den forhenværende præst Johannes Rosmer lever i et forhold med sin husholderske Rebecca West, mens konservative og liberale kræfter kæmper om magten i landet. Den norske dramatiker og digter Henrik Ibsen (1828-1906) er én af de vigtigste forfattere i Det Moderne Gennembrud og regnes som grundlæggeren af det moderne drama med skuespil, der sætter den menneskelige psykologi i centrum og kredser om den fortid, det er så umuligt at flygte fra. Ibsen er verdensberømt for skuespil som \"Et dukkehjem\", \"Peer Gynt\" og \"Hedda Gabler\", men producerede i alt over tyve dramaer, der stadig opføres på teatre over hele verden.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:48.429Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b67b"
+  },
+  "title": "Dreams Must Explain Themselves",
+  "author": "Ursula K. Le Guin",
+  "isbn": "9781473205956",
+  "category": "Science Fiction",
+  "publishedYear": 2018,
+  "thumbnail": "http://books.google.com/books/content?id=rzV_CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "'By turns sharp, funny and insightful, high-minded but never mean-spirited, the book embodies its author's lifelong quest for freedom: freedom as a woman, freedom to write what she pleased, freedom to like what she liked. Genre fiction - and literature in general - has lost not just one of its brightest exponents but one of its bolshiest champions.' FINANCIAL TIMES 'Excellent' CHOICE 'Le Guin is one of the singular speculative voices of our future, thanks to her knack for anticipating issues of seminal importance to society' TLS Ursula K. Le Guin has won or been nominated for over 200 awards for her fiction, including the Hugo, Nebula, World Fantasy and SFWA Grand Master Awards. She is the acclaimed author of the Earthsea sequence and The Left Hand of Darkness - which alone would qualify her for literary immortality - as well as a remarkable body of short fiction, including the powerful, Hugo-winning 'The Ones Who Walk Away from Omelas' and the masterpiece of anthropological and environmental SF 'The Word for World is Forest' - winner of the Hugo Award for best novella. But Ursula Le Guin's talents do not stop at fiction. Over the course of her extraordinary career, she has penned numerous essays around themes important to her: anthropology, environmentalism, feminism, social justice and literary criticism to name a few. She has responded in detail to criticism of her own work and even reassessed that work in the context of such critiques. This selection of the best of Le Guin's non-fiction shows an agile mind, an unparalleled imagination and a ferocious passion to argue against injustice. In 2014 Ursula Le Guin was awarded the National Book Foundation's Medal for Distinguished Contribution to American Letters, and her widely praised acceptance speech is one of the highlights of this volume, which shows that one of modern literature's most original voices is also one of its purest consciences.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:15.992Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b674"
+  },
+  "title": "The Boleyn Inheritance",
+  "author": "Philippa Gregory",
+  "isbn": "9781439124673",
+  "category": "Fiction",
+  "publishedYear": 2008,
+  "thumbnail": "http://books.google.com/books/content?id=xZNVDAaxrGIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "THREE WOMEN WHO SHARE ONE FATE: THE BOLEYN INHERITANCE ANNE OF CLEVES She runs from her tiny country, her hateful mother, and her abusive brother to a throne whose last three occupants are dead. King Henry VIII, her new husband, instantly dislikes her. Without friends, family, or even an understanding of the language being spoken around her, she must literally save her neck in a court ruled by a deadly game of politics and the terror of an unpredictable and vengeful king. Her Boleyn Inheritance: accusations and false witnesses. KATHERINE HOWARD She catches the king's eye within moments of arriving at court, setting in motion the dreadful machine of politics, intrigue, and treason that she does not understand. She only knows that she is beautiful, that men desire her, that she is young and in love -- but not with the diseased old man who made her queen, beds her night after night, and killed her cousin Anne. Her Boleyn Inheritance: the threat of the axe. JANE ROCHFORD She is the Boleyn girl whose testimony sent her husband and sister-in-law to their deaths. She is the trusted friend of two threatened queens, the perfectly loyal spy for her uncle, the Duke of Norfolk, and a canny survivor in the murderous court of a most dangerous king. Throughout Europe, her name is a byword for malice, jealousy, and twisted lust. Her Boleyn Inheritance: a fortune and a title, in exchange for her soul. The Boleyn Inheritance is a novel drawn tight as a lute string about a court ruled by the gallows and three women whose positions brought them wealth, admiration, and power as well as deceit, betrayal, and terror. Once again, Philippa Gregory has brought a vanished world to life -- the whisper of a silk skirt on a stone stair, the yellow glow of candlelight illuminating a hastily written note, the murmurs of the crowd gathering on Tower Green below the newly built scaffold. In The Boleyn Inheritance Gregory is at her intelligent and page-turning best.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:01.437Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b675"
+  },
+  "title": "The Picture of Dorian Gray",
+  "author": "Oscar Wilde",
+  "isbn": "9780359788330",
+  "category": "Fiction",
+  "publishedYear": 2019,
+  "thumbnail": "http://books.google.com/books/content?id=6vGiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "The Picture of Dorian Gray is the only published novel by Oscar Wilde, appearing as the lead story in Lippincott's Monthly Magazine on 20 June 1890, printed as the July 1890 issue. The magazine's editors feared the story was indecent as submitted, so they censored roughly 500 words, without Wilde's knowledge, before publication. But even with that, the story was still greeted with outrage by British reviewers, some of whom suggested that Wilde should be prosecuted on moral grounds, leading Wilde to defend the novel aggressively in letters to the British press. Today, Wilde's fin de siècle novella is considered a classic. This new edition from Immortal Books includes footnotes and images.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:04.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b67e"
+  },
+  "title": "The Assassin's Blade",
+  "author": "Sarah J. Maas",
+  "isbn": "9781408851982",
+  "category": "Fantasy",
+  "publishedYear": 2014,
+  "thumbnail": "http://books.google.com/books/content?id=xLacAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Celaena Sardothien is Adarlan's most feared assassin. As part of the Assassins' Guild, her allegiance is to her master, Arobynn Hamel, yet Celaena listens to no one and trusts only her fellow killer-for-hire, Sam. In these action-packed prequel novellas - together in one edition for the first time - Celaena embarks on five daring missions. They take her from remote islands to hostile deserts, where she fights to liberate slaves and seeks to avenge the tyrannous. But she is acting against Arobynn's orders and could suffer an unimaginable punishment for such treachery ...Explore the dark underworld of this kick-ass heroine and find out how the legend begins in the five page-turning prequel novellas to the New York Times bestselling Throne of Glass series.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:21.177Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b67f"
+  },
+  "title": "Bridge to Terabithia",
+  "author": "Katherine Paterson",
+  "isbn": "0590132008",
+  "category": "Fantasy",
+  "publishedYear": 1977,
+  "thumbnail": "http://books.google.com/books/content?id=Hnb-93B3OGAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "The life of a ten-year-old boy in rural Virginia expands when he becomes friends with a newcomer who subsequently meets an untimely death trying to reach their hideaway, Terabithia, during a storm.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:23.245Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b682"
+  },
+  "title": "A Game of Thrones",
+  "author": "George R. R. Martin",
+  "isbn": "UOM:39015050507618",
+  "category": "Mystery",
+  "publishedYear": 2011,
+  "thumbnail": "http://books.google.com/books/content?id=bIZiAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "Fantasy-roman.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:28.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b688"
+  },
+  "title": "Area 7",
+  "author": "Matthew Reilly",
+  "isbn": "0330363654",
+  "category": "Thriller",
+  "publishedYear": 2002,
+  "thumbnail": "http://books.google.com/books/content?id=9g4uf7a-Tb8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Mass-market paperback release of a science-fiction thriller first published 2001. The setting is America's most secret military installation, hidden deep in the Utah Desert. The President has come to inspect the base, but is unaware of the hostile forces that are waiting inside. Includes illustrations and an interview with the author on the writing of the book. Author's previous titles include the bestsellers 'Ice Station' and 'Contest'.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:38.619Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b68c"
+  },
+  "title": "Spirit Bound",
+  "author": "Richelle Mead",
+  "isbn": "1921518863",
+  "category": "Romance",
+  "publishedYear": 2010,
+  "thumbnail": "http://books.google.com/books/content?id=-a-YQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "The international number 1 bestselling Vampire Academy series by Richelle Mead is now a major motion picture. Read it before it hits cinemas in 2014! SALVATION HAS ITS PRICE . . . Fall in love with Rose and Dimitri all over again in Spirit Bound, the anticipated fifth novel in Richelle Mead's enthralling Vampire Academy series. After a long and heartbreaking journey to Siberia, Dimitri's birthplace, Rose Hathaway has finally returned to St. Vladimir's - and to her best friend, Lissa Dragomir. It's graduation, and the girls can't wait for their real lives outside the Academy's cold iron gates to finally begin. But even with the intrigue and excitement of court life looming, Rose's heart still aches for Dimitri. He's out there, somewhere. She failed to kill him when she had the chance, and now her worst fears are about to come true. Dimitri has tasted her blood, and she knows in her heart that he is hunting her. And if Rose won't join him, he won't rest until he has silenced her . . . forever. But Rose can't forget what she learned on her journey - whispers of a magic too impossible and terrifying to comprehend. A magic inextricably tied to Lissa that could hold the answer to all of Rose's prayers, but not without devastating consequences. Now Rose will have to decide what - and who - matters most to her. And in the end, is true love really worth the price? penguinteenaustralia.com",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:44.738Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b693"
+  },
+  "title": "The Drowned and the Saved",
+  "author": "Primo Levi",
+  "isbn": "9781501167638",
+  "category": "Biography",
+  "publishedYear": 2017,
+  "thumbnail": "http://books.google.com/books/content?id=s90nDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "In his final book before his death, Primo Levi returns once more to his time at Auschwitz in a moving meditation on memory, resiliency, and the struggle to comprehend unimaginable tragedy. Drawing on history, philosophy, and his own personal experiences, Levi asks if we have already begun to forget about the Holocaust. His last book before his death, Levi returns to the subject that would define his reputation as a writer and a witness. Levi breaks his book into eight essays, ranging from topics like the unreliability of memory to how violence twists both the victim and the victimizer. He shares how difficult it is for him to tell his experiences with his children and friends. He also debunks the myth that most of the Germans were in the dark about the Final Solution or that Jews never attempted to escape the camps. As the Holocaust recedes into the past and fewer and fewer survivors are left to tell their stories, The Drowned and the Saved is a vital first-person testament. Along with Elie Wiesel and Hannah Arendt, Primo Levi is remembered as one of the most powerful and perceptive writers on the Holocaust and the Jewish experience during World War II. This is an essential book both for students and literary readers. Reading Primo Levi is a lesson in the resiliency of the human spirit.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:55.808Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b680"
+  },
+  "title": "The Wind in the Willows",
+  "author": "Kenneth Grahame",
+  "isbn": "185326122X",
+  "category": "Fantasy",
+  "publishedYear": 1993,
+  "thumbnail": "http://books.google.com/books/content?id=Mo7D3Je7_DMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "The tales of Ratty, Mole, Badger and Toad. When Mole goes boating with the Water Rat instead of spring-cleaning, he discovers a new world. As well as the river and the Wild Wood, there is Toad's craze for fast travel which leads him and his friends on a whirl of trains, barges, gipsy caravans and motor cars and even into battle.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:25.208Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b68e"
+  },
+  "title": "Dare to Love",
+  "author": "Carly Phillips",
+  "isbn": "9780989311298",
+  "category": "Romance",
+  "publishedYear": 2013,
+  "thumbnail": "http://books.google.com/books/content?id=ugbmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "She arouses his dominant and protective instincts And he will do anything to possess her … And does. When billionaire Ian Dare gets one glimpse of the sensual and irresistible Riley Taylor, he knows that he must have her. But any future he might have with Riley means he’ll have to confront his past—a past he’d rather forget. And that’s something this NFL team owner won’t dare to do—not even for love.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:48.450Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b691"
+  },
+  "title": "Eat, Pray, Love",
+  "author": "Elizabeth Gilbert",
+  "isbn": "9780747585664",
+  "category": "Biography",
+  "publishedYear": 2007,
+  "thumbnail": "http://books.google.com/books/content?id=QdCNeNx6LJUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "The Number One international bestseller, Eat, Pray Love is a journey around the world, a quest for spiritual enlightenment and a story for anyone who has battled with divorce, depression and heartbreak.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:52.977Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6af"
+  },
+  "title": "The Archaeology of Ancient China",
+  "author": "Kwang-chih Chang",
+  "isbn": "0300037821",
+  "category": "Art",
+  "publishedYear": 1986,
+  "thumbnail": "http://books.google.com/books/content?id=9lTBQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "Cloth edition available for $50.00.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:50.959Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b677"
+  },
+  "title": "Narrow Road To The Deep North, The",
+  "author": "Richard Flanagan",
+  "isbn": "9780857980366",
+  "category": "Fiction",
+  "publishedYear": 2014,
+  "thumbnail": "http://books.google.com/books/content?id=QeIBBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Long-listed for the Man Booker Prize August, 1943. In the despair of a Japanese POW camp on the Thai-Burma Death Railway, Australian surgeon Dorrigo Evans is haunted by his affair with his uncle's young wife two years earlier. His life is a daily struggle to save the men under his command from starvation, from cholera, from pitiless beatings. Until he receives a letter that will change him forever. Moving deftly from the POW camp to contemporary Australia, from the experiences of Dorrigo and his comrades to those of the Japanese guards, this savagely beautiful novel tells a story of love, death, and family, exploring the many forms of good and evil, war and truth, guilt and transcendence, as one man comes of age, prospers, only to discover all that he has lost. \"From the Hardcover edition.\"",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:09.114Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b685"
+  },
+  "title": "The Invisible Man",
+  "author": "Len Jenkin",
+  "isbn": "0871299844",
+  "category": "Mystery",
+  "publishedYear": 2000,
+  "thumbnail": "http://books.google.com/books/content?id=SCHqme8AluYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "No description available",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:00:31.323Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b69b"
+  },
+  "title": "Galaxy Morphology and Classification",
+  "author": "Sidney Van den Bergh",
+  "isbn": "9780521623353",
+  "category": "Science",
+  "publishedYear": 1998,
+  "thumbnail": "http://books.google.com/books/content?id=geEVkpueEPcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "A concise and up-to-date guide to the shape of galaxies and how they can be classified, by one of the pioneers of the field.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:01:06.075Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b69c"
+  },
+  "title": "The Encyclopedia of Animals",
+  "author": "Unknown",
+  "isbn": "9780520244061",
+  "category": "Science",
+  "publishedYear": 2004,
+  "thumbnail": "http://books.google.com/books/content?id=2V1tHqi4hLEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "This lavishly illustrated trade reference to mammals, birds, reptiles, amphibians, fishes, and invertebrates features hundreds of glorious photos, masterful illustrations, and informative maps.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:01:07.874Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6a3"
+  },
+  "title": "Revisiting the Use of Self",
+  "author": "Deena Mandell",
+  "isbn": "9781551303345",
+  "category": "Self-Help",
+  "publishedYear": 2007,
+  "thumbnail": "http://books.google.com/books/content?id=R9hgnEV6RfsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Offers the reader a historical/developmental overview of the concept of 'use of self' and explores its adequacy for contemporary ethical practice. This book provides the reader with first-person, practitioners' accounts of their own 'use of self' in examples of reflective practice approaches. It broadens the scope of the concept of 'use of self'.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:29.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6a8"
+  },
+  "title": "In fremden Schuhen",
+  "author": "Friedbert Aspetsberger",
+  "isbn": "UCAL:B4229332",
+  "category": "Children's Books",
+  "publishedYear": 1990,
+  "thumbnail": "http://books.google.com/books/content?id=yXq5AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "No description available",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:40.268Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6ab"
+  },
+  "title": "The Flowers of Evil",
+  "author": "Charles Baudelaire",
+  "isbn": "9781387809349",
+  "category": "Poetry",
+  "publishedYear": 2018,
+  "thumbnail": "http://books.google.com/books/content?id=Hf1aDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "In this classic of decadent poetics, the dark, troubled vision of Charles Baudelaire lives, growing like a tangled rosebush of prickling thorns, bringing the Satanic majesty of a fallen world into the metrical regularity of his poisoned pen verse. A French master every bit the equal of the gothic tragedian Poe, Baudelaire's \"Flowers\" encompasses and exposes a world of titanic grief and ultimate grace, wasted love and bitter, dark remonstrance. What are the dark, ugly byways and hidden, corrupt nooks of the human experience? A sweeping masterpiece of literary song. Online bookstore: www.lulu.com/zem66",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:43.932Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6b3"
+  },
+  "title": "Digital Art",
+  "author": "Christiane Paul",
+  "isbn": "9780500779019",
+  "category": "Art",
+  "publishedYear": 2023,
+  "thumbnail": "http://books.google.com/books/content?id=46K7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Digital art, along with the technological developments of its medium, has rapidly evolved from the digital revolution into the social media era and to the postdigital and post-Internet landscape. This new, expanded edition of this invaluable overview of the medium traces the emergence of artificial intelligence, augmented and mixed realities, and Non-Fungible Tokens (NFTs), and surveys themes explored by digital artworks in the areas of activism, networks and telepresence, and ecological art and the Anthropocene. Christiane Paul considers all forms of digital art, focusing on the basic characteristics of their aesthetic language and their technological and art-historical evolution. By looking at the ways in which internet art, digital installation, software art, AR and VR haveemerged as recognized artistic practices, Digital Art is an essential critical guide.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:56.692Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6b8"
+  },
+  "title": "The Rough Guide to China (Travel Guide eBook)",
+  "author": "Rough Guides",
+  "isbn": "9780241314890",
+  "category": "Travel",
+  "publishedYear": 2017,
+  "thumbnail": "http://books.google.com/books/content?id=sNtLDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "The new, fully updated The Rough Guide to China is the definitive guide to this enchanting country, one of the world's oldest civilisations. From the high-tech cities of Hong Kong and Shanghai to minority villages in Yunnan and Buddhist temples of Tibet, China's mixture of modernity and ancient traditions never fails to impress. With stunning new photography and all the best places to eat, sleep, party and shop, The Rough Guide to China has everything need to ensure you don't miss a thing in this fast-changing nation. Detailed, full-colour maps help you find the best spot for Peking duck or navigate Beijing's backstreets. Itineraries make planning easy, and a Contexts section gives in-depth background on China's history and culture, as well language tips, with handy words and phrases to ease your journey. All this, combined with detailed coverage of the country's best attractions, from voyages down the Yangzi River to hiking the infamous Great Wall, makes The Rough Guide to China the essential companion to delve into China's greatest treasures.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:02.075Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6bc"
+  },
+  "title": "Matthew",
+  "author": "William David Davies",
+  "isbn": "056708518X",
+  "category": "Religion",
+  "publishedYear": 1988,
+  "thumbnail": "http://books.google.com/books/content?id=ZXIV2WOTVvMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "This volume which completes the internationally acclaimed three-volume commentary on St Matthew's Gospel includes a verse-by-verse and section-by-section commentary in which all linguistic, historical, and theological issues are discussed in detail. A complete index to all three volumes is included.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:09.811Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6b9"
+  },
+  "title": "Descartes: Meditations on First Philosophy",
+  "author": "René Descartes",
+  "isbn": "0521558182",
+  "category": "Religion",
+  "publishedYear": 1996,
+  "thumbnail": "http://books.google.com/books/content?id=yMwiTTpwasgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "The Meditations, one of the key texts of Western philosophy, is the most widely studied of all Descartes' writings. This authoritative translation by John Cottingham, taken from the much acclaimed three-volume Cambridge edition of the Philosophical Writings of Descartes, is based upon the best available texts and presents Descartes' central metaphysical writings in clear, readable modern English. As well as the complete text of the Meditations, the reader will find a thematic abridgement of the Objections and Replies (which were originally published with the Meditations) containing Descartes' replies to his critics. These extracts, specially selected for the present volume, indicate the main philosophical difficulties which occurred to Descartes' contemporaries and show how Descartes developed and clarified his arguments in response. This edition contains a new comprehensive introduction to Descartes' philosophy by John Cottingham and the classic introductory essay on the Meditations by Bernard Williams.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:03.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6bf"
+  },
+  "title": "Thus Spoke Zarathustra",
+  "author": "Friedrich Nietzsche",
+  "isbn": "9780141904320",
+  "category": "Philosophy",
+  "publishedYear": 1974,
+  "thumbnail": "http://books.google.com/books/content?id=a9VxKgui0mEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "'Enigmatic, vatic, emphatic, passionate . . . Nietzsche's works together make a unique statement in the literature of European ideas' A. C. Grayling Nietzsche was one of the most revolutionary thinkers in Western philosophy, and Thus Spoke Zarathustra remains his most influential work. It describes how the ancient Persian prophet Zarathustra descends from his solitude in the mountains to tell the world that God is dead and that the Superman, the human embodiment of divinity, is his successor. With blazing intensity, Nietzsche argues that the meaning of existence is not to be found in religious pieties or meek submission, but in an all-powerful life force: passionate, chaotic and free. Translated with an introduction by R. J. HOLLINGDALE",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:14.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6ba"
+  },
+  "title": "Sitting Still Like a Frog",
+  "author": "Eline Snel",
+  "isbn": "9780834829190",
+  "category": "Religion",
+  "publishedYear": 2013,
+  "thumbnail": "http://books.google.com/books/content?id=rosdAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "This introduction to mindfulness meditation for children and their parents includes practices that can help children calm down, become more focused, fall asleep more easily, alleviate worry, manage anger, and generally become more patient and aware.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:08.113Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6b7"
+  },
+  "title": "Coping with Tourists",
+  "author": "Jeremy Boissevain",
+  "isbn": "1571818782",
+  "category": "Travel",
+  "publishedYear": 1996,
+  "thumbnail": "http://books.google.com/books/content?id=cdHLpY3oGGoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Twenty-four papers assess the challenges to developing a systematic framework for understanding and predicting climatic changes and variations. The contributing scientists pull together ad hoc environmental observations, presenting a coherent review of long and short term climate monitoring, direction in future research, and specific aspects of observing such as long term monitoring of the cryosphere, and oceanic observation systems. The volume is reprinted from Climatic Change, v.31, nos.2-4, 1995. Lacks an index. Annotation copyright by Book News, Inc., Portland, OR",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:01.162Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6b5"
+  },
+  "title": "The History of The Peloponnesian War",
+  "author": "Thucydides",
+  "isbn": "Unknown",
+  "category": "Travel",
+  "publishedYear": 0,
+  "thumbnail": "http://books.google.com/books/content?id=tZ36EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "No description available",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:03:57.742Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6be"
+  },
+  "title": "A Treatise of Human Nature",
+  "author": "David Hume",
+  "isbn": "0486432505",
+  "category": "Philosophy",
+  "publishedYear": 2003,
+  "thumbnail": "http://books.google.com/books/content?id=zHYO1Fh9_JMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Unpopular in its day, David Hume's sprawling, three-volume 'A Treatise of Human Nature' (1739-40) has withstood the test of time and had enormous impact on subsequent philosophical thought. Hume's comprehensive effort to form an observationally grounded study of human nature employs John Locke's empiric principles to construct a theory of knowledge from which to evaluate metaphysical ideas. A key to modern studies of eighteenth-century Western philosophy, the Treatise considers numerous classic philosophical issues, including causation, existence, freedom and necessity, and morality. Unabridged republication of the edition originally published by Oxford at the Clarendon Press, London, 1888.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:13.161Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6b6"
+  },
+  "title": "The Museum of Innocence",
+  "author": "Orhan Pamuk",
+  "isbn": "9780571268412",
+  "category": "Travel",
+  "publishedYear": 2011,
+  "thumbnail": "http://books.google.com/books/content?id=vHr5vhO5gXsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "The Museum of Innocence - set in Istanbul between 1975 and today - tells the story of Kemal, the son of one of Istanbul's richest families, and of his obsessive love for a poor and distant relation, the beautiful Fusun, who is a shop-girl in a small boutique. In his romantic pursuit of Füsun over the next eight years, Kemal compulsively amasses a collection of objects that chronicles his lovelorn progress-a museum that is both a map of a society and of his heart. The novel depicts a panoramic view of life in Istanbul as it chronicles this long, obsessive love affair; and Pamuk beautifully captures the identity crisis experienced by Istanbul's upper classes that find themselves caught between traditional and westernised ways of being. Orhan Pamuk's first novel since winning the Nobel Prize is a stirring love story and exploration of the nature of romance. Pamuk built The Museum of Innocence in the house in which his hero's fictional family lived, to display Kemal's strange collection of objects associated with Fusun and their relationship. The house opened to the public in 2012 in the Beyoglu district of Istanbul. 'Pamuk has created a work concerning romantic love worthy to stand in the company of Lolita, Madame Bovary and Anna Karenina.' --Financial Times",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:00.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6c0"
+  },
+  "title": "Phenomenology of Spirit",
+  "author": "Georg Wilhelm Friedrich Hegel",
+  "isbn": "8120814738",
+  "category": "Philosophy",
+  "publishedYear": 1998,
+  "thumbnail": "http://books.google.com/books/content?id=xOnhG9tidGsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "wide criticism both from Western and Eastern scholars.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:15.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6c2"
+  },
+  "title": "Philosophical Explanations",
+  "author": "Robert Nozick",
+  "isbn": "0674664795",
+  "category": "Philosophy",
+  "publishedYear": 1981,
+  "thumbnail": "http://books.google.com/books/content?id=N4zH86WogYwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Nozick develops new views on philosophy’s central topics and weaves them into a unified perspective. He ranges widely over philosophy’s fundamental concerns: the identity of the self, knowledge and skepticism, free will, the question of why there is something rather than nothing, the foundations of ethics, the meaning of life.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:17.339Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6c3"
+  },
+  "title": "The Science of Sugar Confectionery",
+  "author": "W. P. Edwards",
+  "isbn": "0854045937",
+  "category": "Cooking",
+  "publishedYear": 2000,
+  "thumbnail": "http://books.google.com/books/content?id=JTdUXI9fz2kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Confectionery is a topic close to many people's hearts and its manufacture involves some interesting science. The confectionery industry is divided into three classes: chocolate, flour and sugar confectionery. It is the background science of this latter category that is covered in The Science of Sugar Confectionery. The manufacture of confectionery is not a science based industry, as these products have traditionally been created by skilled confectioners working empirically. In fact, scientific understanding of the production process has only been acquired retroactively. Historically however, sugar confectionery has had technological synergies with the pharmaceutical industry, such as making sugar tablets and applying panned sugar coatings. This book gives an introduction to the subject, with some basic definitions and commonly used ingredients and then moves on to discuss the chemistry of various types of sugar confectionery. These include \"sugar glasses\" (boiled sweets), \"grained sugar products\" (fondants), toffees and fudges, \"hydrocolloids\" (gums, pastilles and jellies) and concludes with a chapter dedicated to sugar-free confectionery.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:18.200Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6cc"
+  },
+  "title": "Nutrition and Fitness",
+  "author": "Marshall Cavendish Corporation",
+  "isbn": "0761479392",
+  "category": "Health and Fitness",
+  "publishedYear": 2011,
+  "thumbnail": "http://books.google.com/books/content?id=9q7OkoguGl8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Nutrition and Fitness provides detailed information on a wide variety of related topics that fall into the following five subject areas: body; diet and nutrition; human behavior; illness, injury, and disorders; and prevention and cure.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:33.233Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6c6"
+  },
+  "title": "Curry",
+  "author": "Lizzie Collingham",
+  "isbn": "0199883815",
+  "category": "Cooking",
+  "publishedYear": 2006,
+  "thumbnail": "http://books.google.com/books/content?id=Sr3GUyWe3O0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Curry serves up a delectable history of Indian cuisine, ranging from the imperial kitchen of the Mughal invader Babur to the smoky cookhouse of the British Raj. In this fascinating volume, the first authoritative history of Indian food, Lizzie Collingham reveals that almost every well-known Indian dish is the product of a long history of invasion and the fusion of different food traditions. We see how, with the arrival of Portuguese explorers and the Mughal horde, the cooking styles and ingredients of central Asia, Persia, and Europe came to the subcontinent, where over the next four centuries they mixed with traditional Indian food to produce the popular cuisine that we know today. Portuguese spice merchants, for example, introduced vinegar marinades and the British contributed their passion for roast meat. When these new ingredients were mixed with native spices such as cardamom and black pepper, they gave birth to such popular dishes as biryani, jalfrezi, and vindaloo. In fact, vindaloo is an adaptation of the Portuguese dish \"carne de vinho e alhos-\"-the name \"vindaloo\" a garbled pronunciation of \"vinho e alhos\"--and even \"curry\" comes from the Portuguese pronunciation of an Indian word. Finally, Collingham describes how Indian food has spread around the world, from the curry houses of London to the railway stands of Tokyo, where \"karee raisu\" (curry rice) is a favorite Japanese comfort food. We even visit Madras Mahal, the first Kosher Indian restaurant, in Manhattan. Richly spiced with colorful anecdotes and curious historical facts, and attractively designed with 34 illustrations, 5 maps, and numerous recipes, Curry is vivid, entertaining, and delicious--a feast for food lovers everywhere.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:22.423Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6c5"
+  },
+  "title": "The Invention of the Restaurant",
+  "author": "Rebecca L. Spang",
+  "isbn": "9780674244016",
+  "category": "Cooking",
+  "publishedYear": 2020,
+  "thumbnail": "http://books.google.com/books/content?id=jzbDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Winner of the Louis Gottschalk Prize Winner of the Thomas J. Wilson Memorial Prize “Witty and full of fascinating details.” —Los Angeles Times Why are there restaurants? Why would anybody consider eating alongside perfect strangers in a loud and crowded room to be an enjoyable pastime? To find the answer, Rebecca Spang takes us back to France in the eighteenth century, when a restaurant was not a place to eat but a quasi-medicinal bouillon not unlike the bone broths of today. This is a book about the French revolution in taste—about how Parisians invented the modern culture of food, changing the social life of the world in the process. We see how over the course of the Revolution, restaurants that had begun as purveyors of health food became symbols of aristocratic greed. In the early nineteenth century, the new genre of gastronomic literature worked within the strictures of the Napoleonic state to transform restaurants yet again, this time conferring star status upon oysters and champagne. “An ambitious, thought-changing book...Rich in weird data, unsung heroes, and bizarre true stories.” —Adam Gopnik, New Yorker “[A] pleasingly spiced history of the restaurant.” —New York Times “A lively, engrossing, authoritative account of how the restaurant as we know it developed...Spang is...as generous in her helpings of historical detail as any glutton could wish.” —The Times",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:23.743Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6ca"
+  },
+  "title": "Physical Activity and Fitness",
+  "author": "Justin Healey",
+  "isbn": "1922084212",
+  "category": "Health and Fitness",
+  "publishedYear": 2013,
+  "thumbnail": "http://books.google.com/books/content?id=CIyTmwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "\"Physical activity is a key factor in maintaining good overall health and fitness. Being physically active has significant health benefits, including reducing the risk of some chronic conditions, helping to control weight and improving mental wellbeing. There has been a decline in physical activity over recent decades due to the sedentary nature of many forms of work, changes in transportation and increased ‘screen time’. A lack of regular physical activity is associated with an increased risk of mortality and morbidity from heart and vascular diseases, particularly coronary heart disease. Physical inactivity has been ranked second only to tobacco smoking, in terms of the burden of disease and injury from risk factors in Australia; globally, physical inactivity is the fourth leading risk factor for mortality, contributing to 6% of deaths. The health, social and economic costs of physical inactivity are confronting. This book reveals the extent of participation in physical activity by Australians, and explores ways of overcoming sedentary behaviour and inactivity through appropriate forms of exercise to suit your age and situation. Are you being active enough?\" -- From Introduction.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:29.791Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6cb"
+  },
+  "title": "The Big Book of Health and Fitness",
+  "author": "Philip Maffetone",
+  "isbn": "9781616083793",
+  "category": "Health and Fitness",
+  "publishedYear": 2012,
+  "thumbnail": "http://books.google.com/books/content?id=n4tDCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Presents a guide to maintaining health and physical fitness, providing advice on nutrition, healthy eating, exercise, and preventive measures against disease.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:31.840Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6c4"
+  },
+  "title": "The Book of Tea",
+  "author": "Kakuzo Okakura",
+  "isbn": "9781775414933",
+  "category": "Cooking",
+  "publishedYear": 2009,
+  "thumbnail": "http://books.google.com/books/content?id=WebU_NUMuBsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "The Book of Tea discusses the impact of \"Teaism\" on all aspects of Japanese culture and life. Kakuzo elaborates on the relationship between tea ceremony and Zen and Taoism. He also talks about the tea masters and their contribution to the tea ceremony. Kakuzo spoke English from an early age, and so was able to make his writings accessible to the Western mind.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:19.337Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6c7"
+  },
+  "title": "The Oxford Companion to Food",
+  "author": "Alan Davidson",
+  "isbn": "9780192806819",
+  "category": "Cooking",
+  "publishedYear": 2006,
+  "thumbnail": "http://books.google.com/books/content?id=JTr-ouCbL2AC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "The Oxford Companion to Food is a unique encyclopedic repertory of foodstuffs, cooked dishes, and food processes, together with entries that cover the food and foodways of the countries of the world, and the literature of food and cookery. The new edition updates existing entries and the bibliography, and adds many new articles on topics that reflect the rapid development and universal relevance of food studies.",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:25.741Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667cf16e3fd83607da98b6c8"
+  },
+  "title": "Physical Activity and Fitness",
+  "author": "Justin Healey",
+  "isbn": "1922084220",
+  "category": "Health and Fitness",
+  "publishedYear": 2013,
+  "thumbnail": "http://books.google.com/books/content?id=Bt6uoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "Physical activity is a key factor in maintaining good health and fitness. Being physically active has a number of significant health benefits, including chronic disease risk reduction, helping in the control of body weight and improving mental wellbeing. There has been a decline in physical activity over recent decades due to the sedentary nature of many forms of work, changes in transportation and increased OCyscreen timeOCO. A lack of regular physical activity and related overweight and obesity is associated with an increased risk of mortality and morbidity from certain cancers, diabetes, osteoporosis, and heart and vascular diseases. Physical inactivity has been ranked second only to tobacco smoking, in terms of the burden of disease and injury from risk factors in Australia. Globally, physical inactivity is the fourth leading risk factor for mortality. This book reveals the extent of participation in physical activity by Australians, and explores ways of overcoming sedentary behaviour and inactivity through appropriate forms of exercise to suit your age and situation. Are you active enough? Also includes: worksheets and activities, fast facts, glossary, web links, index.\"",
+  "count": 0,
+  "damaged": 0,
+  "status": "active",
+  "updatedAt": {
+    "$date": "2024-06-27T05:04:26.883Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667b6afddfa8fa7ffef5d6b7"
+  },
+  "status": "active",
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "isbn": "978-0743273565",
+  "category": "fiction",
+  "publishedYear": 1925,
+  "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490528560i/4671.jpg",
+  "description": "The Great Gatsby, F. Scott Fitzgerald's third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted \"gin was the national drink and sex the national obsession,\" it is an exquisitely crafted tale of America in the 1920s.",
+  "createdAt": {
+    "$date": "2024-06-26T01:12:29.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T01:55:06.015Z"
+  },
+  "__v": 0,
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667cf0e53fd83607da98b63f"
+  },
+  "\"\nProgram to automatically fetch google books\ninformation and save it in json file\n\"": "import"
+},
+{
+  "_id": {
+    "$oid": "667b6740d9f344b8edba373c"
+  },
+  "status": "active",
+  "title": "Eloquent JavaScript A Modern Introduction to Programming",
+  "author": "Marijn Haverbeke",
+  "isbn": "9781593279509",
+  "category": "non-fiction",
+  "publishedYear": 2011,
+  "thumbnail": "data:image/jpg;base64,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",
+  "description": "Completely revised and updated, this best-selling introduction to programming in JavaScript focuses on writing real applications. JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications. This much anticipated and thoroughly revised third edition of Eloquent JavaScript dives deep into the JavaScript language to show you how to write beautiful, effective code. It has been updated to reflect the current state of Java¬Script and web browsers and includes brand-new material on features like class notation, arrow functions, iterators, async functions, template strings, and block scope. A host of new exercises have also been added to test your skills and keep you on track. As with previous editions, Haverbeke continues to teach through extensive exa",
+  "createdAt": {
+    "$date": "2024-06-26T00:56:32.039Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-27T02:38:57.324Z"
+  },
+  "__v": 0,
+  "count": 12,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667b6872dfa8fa7ffef5d679"
+  },
+  "status": "active",
+  "title": "Effective Python 90 Specific Ways to Write Better Python",
+  "author": "Brett Slatkin",
+  "isbn": " 9780134853987",
+  "category": "non-fiction",
+  "publishedYear": 2019,
+  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ68wU6Jw-jAK73S322fpLU5gkZ-oDVuNDN4M5cKqkRfNS4s7Q_veABK52p&s=5",
+  "description": "Updated and Expanded for Python 3\nIt's easy to start developing programs with Python, which is why the language is so popular. However, Python's unique strengths, charms, and expressiveness can be hard to grasp, and there are hidden pitfalls that can easily trip you up.\nThis second edition of Effective Python will help you master a truly \"Pythonic\" approach to programming, harnessing Python's full power to write exceptionally robust and well-performing code. Using the concise, scenario-driven style pioneered in Scott Meyers' best-selling Effective C++, Brett Slatkin brings together 90 Python best practices, tips, and shortcuts, and explains them with realistic code examples so that you can embrace Python with confidence.\n\nDrawing on years of experience building Python infrastructure at Google, Slatkin uncovers little-known quirks and idioms that powerfully impact code behavior and performance. You'll understand the best way to accomplish key tasks so you can write code that's easier to",
+  "createdAt": {
+    "$date": "2024-06-26T01:01:38.589Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T01:01:38.589Z"
+  },
+  "__v": 0,
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667b69a8dfa8fa7ffef5d69b"
+  },
+  "status": "active",
+  "title": "Uncovered by Love Destiny Romance",
+  "author": "Harlequin Kimani Arabesque",
+  "isbn": "978-1583142851",
+  "category": "romance",
+  "publishedYear": 2002,
+  "thumbnail": "data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAEgASAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCACWAGQDAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9QKACgBs0sdrC808qQQoMtJI21QPrUykoLmk7IaTk7RPDfil+1j4T8FLcWem3kepagmVzCQ43DjA5AHPcn8D0rz3XqV3yYdfN/odioRprmrP5I+Efib8R/GfxN1eW/wBW1AT224mK3E+RGvYADivXw9OlSWusu7OSrKpN6fCcZBc/ZnUSRuTwDyK62r7MwWj2NWwvi7EYKoCQpBx19K55q25tGz6HYaBCocMWMeeQxORXl1pNnZSgj2PwRqepWUsPk3hVFkEiBZPlDDocGvBrOzulqepCOh9YfDPxUdUheGZY1eVg48voDjnP1rswOJ972ckceKo2XPE73r2r3jyvMMUAFABQB5v8a/jvoPwS8PzX2oA3l4qjy7ZCANxzsDHtnB6c8GuOpXtUVGkry/I6adHmg6k3aK/E/Pr4o/tseMPiUbq0Bi0/T5WwsFsgBK4HBY5P5EZraOAg5c1d8z/BD+sJLlpKyPIG8UXE7N5sQXdy2W6/jXoJKOiOdtvVkB8QpglflIOMZyK0ST3Ib7D7eS51a8gisVd2kP3RzyOv5U3KMVdgoSk0kdjJDa6ZYR2TXH2q6MhdnjHyIcdM964lKc5OWyOuUIwjy7s1PD4llkAX5APyrCs0kaUoXZ7H4D09p7iONCd5IJQHKn6V85iZpbnrU48qPoTwf4stvDkccS7Vm4BB615kKnI+ZG06SmrM7OX4uC2uowzqVI5GK7Y5hVTumcbwUGtD0bStUt9b02C+tXDwyjPHO0jgivqKNVV6aqRPFqQdObiy3WxmOTG7JOFHJJ9KTkopyeyC19Efk1+1n8U9Q+IHxU1SzklZ7XTbiSKGDJ2L83p0zgDJ6/hxXFl8FGm6z3m738uh6OKdmqS2S/E8Dvp5rVXnxlVGcN0/L8K9VO+pwPRXseveC/gTrnjDw/bajcyx2fnqJUQg/dPQ+3FeNXzSjQnybnu4fK6laHPJ2ueo+Bf2X9PsnFxrLG628CEHCH+teTXzmc1airHo0srpQ+N3Otv/ANnXTb9n/s+YaYjDDLCuCw9C3+Fc1PNqsPjXMXVwVGfw6M8i8cfCLVPh7eRlnaa0lPyyA8fSvfw2YwxUWtmuh5VbAOg046plXQCRJdIxZWjXcQwzx7cVpVlomjOlBrmuei+E9WfT9k1swMg6BWxkfSvIxEFJ2Z3QdkdTa+J5bovOzlbkchX4NckqKWhamnqJd+MHuJwTKemGz1X3pxoaXJlUV7H0P+y54yk1q21bSZpC7RKtwgY9MHa2PzFell7dOpOk9mrnl45KUYzR7tXunlGH471r/hHfBOu6kGCNb2kjqxAIB2nnB9AM4rgx03DDytu9PvOnCwU60U9kfjP41Y23iGaaQu0lziZ5JmyzF/n5PqAw98k10YbWlFLpp9xtifdqv+tzjr++bU5rSzUDy7idIz6nLgV1Wsm/JnI5czS80fpF4V0mG00q1hjUAJEqgY6YAr8xqTc5uR+jWUUorodFFZhpOeazRLZqpaJFHgJg/wB6qMrmL4i8OWfiKwez1CFZ4XPIYZ/EVcJypyUog0mrPqeJeNfhfH4UuIr6zCyWsS7GTJDMh6g+tezQxsqv7ue5yVKEYvnhstGcBFFMLgT6bMLm0zyB99PZh1r1uaLVqu55LptSvT1R0EOvCTCzI1vKD/EPlNYeye8djZu+nUpazdFNt7bnzFUgSqpzketdVKN1yyOKpKzue2fsm+ITbfFawtxIDFqFtLCT64TeP1XFZRhyYmEn3f5Mip71Ca/rc+0+navdeh5C1OD+PRcfBjxgEHL2LRn2DfKT+TV5+O1or1udeD1rxPyK+MtvPF4wnE979vnjRRNMMcyEAt+uf8iurBTU6KklbVmuOi1WaOV8D2VtqXjrw9b3k8VrZi+jknmmbCoiMHJJ7Zxj8a1xEnGlOUd7HNhoxnXhGW1z9LtF8p7KJ7d0niK5R42DAj1yK/MJc0XyyVmfoV1LVO5u26DzAMY45pXRFnLY0LlordBvkWP2dgD+VXfsYtdylIY5IvMRldf7wPFMRyfjPR/7f0ee2jbZKw/dn3xxWtKXJNSLa5lynypqNtJ4e1i4s71GivY2w3zFGPuMV9nBqtCM47Hzc06UnF7mVqV0Zo3JkkYHozPyK6oRto0YTk31K+i+MZbO8+zTseehcAhh6Gt50FJXRzKtrys9x/Z01KC1+MHhCaE4hlvNu0dFLAr19MmvOqpqUW+6/M3VnCS8mfohIdsjD3r07x6s8hJpKx49b+MrX4s/DPXdFvFW0udR0yaLYXG5SwZVJHb5gK+TjjpOnKlW+8+geF9nVjUp9z8x/i3oc1v8QNSS7iMBuES5jichmRJFJwSAOjZH1B9K9/AVVOhF3MMbTkq7Ujz6z1q/8BeLbDUdNdYriaNoELxiRGV12sCp4PH8q75wjWg4v87HBTqTw1RSj6bXPq/4XXFz8PvG9np9td/2noeqRxfvrW3aOFJXQsTt3Mq4YFeMHOMjvXyWNjHEUXNq0ou3fRH1mG56VTkesX5H0D498ODXdCSza6ubUOclraTYxHpmvnqVR0pqSVz0UozTUjyddGXw3rc8em+EZvFz2Ns1zdXGqXeY41UEnAfO44UnAHpXrqpKrFSqVOS7srIyqqNFe7ByXqv1NXwv8bPCGt3q2H/CP3XhrWFXJgUFUJxyNy/KfoaVfAV6UeZvmXfqc1KvCtLlWjPQUlS9gEsTFhjNeYdjVjwP9pHQZGsrfVbWJftEJ2yNjkLX0WT1LSdLozysypucfaW1R4FaeILhZEafDK/ysuOCK+s5FbQ+cVS3xEevoHVbiA4x8yse3saultZmdXe6Oi+HnxGu/D2uaZqNlII7mKeOaNT0dlb5l9s8H8PescRQjUhJSHTquMkfpZqs1+135gnaLzo0mKGbftLIGIzxkZNfBVOdStd/efQU1GUb2PKvhtpkcHieVYpUKm2l+0Bk4YkoRlu4DKuB9fU54nNtcrO9rqtzyP8Ab38BxN4f0fxZp8SxX1iBbzFB800LEsdwA52sQQfR2z049zJq3LVdB7P8zz8dSdSh7SO6/I+Ofh7aL408f+ENNuWDxrqCs27uqK7/AK4x+VfT4mTo0ZyXRHj4WCr4ilB7XR9+6NoyxXtpawQrGine20YAA/xP8q/PudzTbZ93UdlZHfT3Et3tJwxXjjpWLVzC3Y5zU/DUkupve293Pp8zk+YYGwGyMc+vFaRqOC5TW6krMi0P4Y6RpxWWK0WR0B5wMD3x0q5V6k1ZvQyahF3ijeubiKztvKVVQDgY7isrAlc8j+MbNdeEb8Rpvk2HavU16uX2WIi2RiIt0ZI+cPF/w+uPD2n6LqABNhfuICT1ikxnn8M/lX2GHxca0501uj5nE4R0Yxn0ZkymOCQ2kuMH7u4cH2rui2/eR581pys5aSM6TfSW7H5dyyxOT1+n8vwrqsmcN7Ox+jPwy+Jq+Nvh74ev/JuWmis0tJjGFwWi+TPPcqFP41+fY2lGjXcHc+mwzc6akmdv4M8PRQ6ZNIpVbm4YK7BMAKo/xPJ714soX0PQhVe7OT+NNzDN4A1291G2R7EwPb2iSAHeSgUuc9OpI/E96qgpPEQcdzsSiqcovbqfmx4ajHgj4p+F9QVv9Aj1GMlz1WMvtJP4E81+g117WhOPk/0PksO/q+Jp1OikvuZ+jWmR28Usk0l3HCzLj5jgAV+dLbY+8lFt+6tCe31yO2lfyZra6hV9riOUMyn3Aoaa3M3Tkzcby7v5VO0eh7VlzXFytInnuhZ2flRYGfvEVSZCjd3ZyGqzGZsnpVI3UbHC+JR56FJCdh7Y616FB2aZlM4v4qeFLfxT8MbO+gmkkfTXZ41hfMQIzv3DpuAXvXqYGtKji3CS+I4cbRjXw910Pl7UdVP2qSwdyZIcsr+o9K+zpq2p8ZVld2I7+5fVtFhnxtmtzsZs8jJHH57T9M1slyu3c5ZaxufRHwSnuH+HtjLZane28UhLNHb2zOofADcj3Br5bMG5V3eK0PpcHC1FWPuCK2kngewjBWPyhE55BbOSRn05OT6CvjG3KTSPUjFQgpM8e/aq1KFPDElpJIZPJiZkQdGkbK7sd8AcCu/BJ/Wko9DdJKhOb6n55eNoPtV7LDHkEfKp6EH2+n9K+7hornx9VXdkfWXwW+Klh4k+GOkjxPMkd9bynTnmkBUSFFGwk9iyEE+pzXx2NwcqeIn7FXTV7ep9jltapiaUZ31joz2Xw/f6FqQjazubeaZTyPMB/TNeROFWHxo9ap7VbnRyMFlDqQrHgjoDXNddDnje1mQ3LO6kHiqQ7IzLq3HlkmtUTdnmvxF1BbCzkePLPjauB1Y8CvTwcFOST2OatLli7HgvxT1+58H+HLXRluBGzAG5ihkYFjjLBh36mvp8HTjWn7ax4+OrSoUlSvr1PEfGY+zajbX1vh0lVTn1HAP6GvegfL1d00FlfAJPbH7l3GVB9HXkH8uK2WrRj3j3Prf4FyWD/DDRnnsTPK6szMr4AJYkjp2PFfC5k5/WZWZ9pl6i8NBn2do0vlXS5kKyEZk7hvQfhXzsFy6mlR87tE+Vf2nNYfU9dhs0b92XwWx8oHAz78KK9jK46yqdTor2VKMF6nx1r0iTeIZihyqynn37V9gvgR8jU1qM9G+AUs134+m8HyCCa11izN1DFcqWj86Lnt0JQuM9ioryse1TpfWFpbRnt5RX9jinTl8Ml+R9DWXwfKXLBtJjjOc7obxlX644NfPSzCT2lf1R9s6tG1z0Hw54Qg8Pguoke5cAM5ndwAOwBNedVrOt8X5I4Z1FLZHQySkjPAxWBjsc/r2t2+mQGSWUAZ4GepreEHJ2QOVjxXxZ4kuLjUSbeEyzW/zqjnbHEeodz6jsvXvX0OGoJRs3a5wTk3LmS2PlfxvrNxr2rXNzPI0jSsxVuwUHtmvraUYQgoxPjcTOVWblM51rttQ8OFX5+yy7FPfaR/8AXrpila5yN+6Z63JWESqfmR+Qemf/ANVX0M+p+hH7IPhG78T/AAN0rUXXck1zc+XtCYCiVh3HHINfDZzf65JR6WPqsuqKOFgn/Wp9DGceXdxq4ZFYB5B0A9fx3fpXzVS9j06e6Pl749aZcHU9VniDCO0tomwBwnmNjPtzivayycYpQfVm+JTnTbR8h6/p8mn6zLDndOPLlCdC2QDivsIy543PkKsHCpbqdF4X8QXPgHx94f8AFNui3jaXM7vbxvh3hkiYOo7E4LYB74rlr01XpSpPTm/NHRSk6NaFX+X8mfZnhf8AaN+HHiXTUvIPFFhbM6hjDfzfZpUPoyuB789PevjKuX4unLlcG/Nan08MVhKsbqol66MuwfG7wxrUs40bVbTWpICFk+wuJEQtnblgSOcH8qzeDrw/iLlv3RvCpRq39nJO3YhuPFGpaoSkMCWgPV3cFseoFL2cI6t3OiMXLcrXWm/ZNPe8lYT3rsI4mmO7ax/ixx/9aqjNylbZCaitjzrx9DBouixWsLAzXUjmaWTrknnPvj+Ve3hHKpVcpbLY4K7UYadT5S1bSZLrxDeacZNn2RHbcxx94sefwC/nX2EXzRTPiaivNxMOfdaGa1lXYj2xlC+rck/0reOxyvQPBfhyXxj4h0/RLeVIrm/lMaPKwVQxUkZJ4/xpVKio03UlsiacXVqKmup99+B7af4feD9H8OWtx5CabbLC/lOSsknV3z/tMSa+OqWxM3W76nt886S9nHoe8+Ibq2slWaCbFjfSGSNgOCgHIJ9QSOK+ZnG7dtmz6ClLS1tbHzh4lvdU1DxJJajTpL+XX4Lia1iTP72GFCPMxxkBmz7bauFWFOnz30ha/q9jub5ly9z5O8UeDfFcnjuwtLbRtRv21qOaTR7jyx/psUMe6Qpzg7EU5/3TX2NPHUPYylKaXJbm8r6K/qfKYijP2uiunt8v62M3QvB/jbxH4el8WaV4Y1K/8OW6y+bqEcWY1CNhz1ywXnJAIGDmtKmMwtKr7CdRKb6GcaFaUXUjH3TCT4b+LfFXg4+LNF8K6lqmg20LGfUIIgUATPmEDOWC45IBxWzx2Go1VQqVEpdvXY53hatSHtacLx7noH7NM2s6H4puNAudHuom8Q6JFq9im0ZmgR3AmX/Z+/z7GvMzOrSqUlUhNPllyv1fQ9PKOanUlBq3NFP5K57vBrXinSrA6xd6DfJo6wrIL9lHllCQFbOehyPzr5+VTDVJezjUXN2PpVOcVe2hq+L/ABRr+iaJbX+p6NeWNnbziXz2XAG5GUZ7c78jPcrWeFnh61R04VE20ZV6lSnG/L/TM3xTpGr2+mG5k8PXNlLcTRRwz3UfmATMQq4OV5YnoD+fftw+Ow7lyxqp2u3bst36Hn16eJtzSjY8z+I9le6V4p0zWfEfhCTTZtWsJdIu2dPKhmnxmORW5+ckEYYjGV5r3cvxVHEU5U8LWUrNNeh42MoVKEozq07dPn3L3xS+EehyaHqWs6fbTWxQxmFyuV8o4VyCP4SuTz0IOa78Li5zmoTOGvSiouSPE9Eg1L4b+PdOYSPDqOlXiXULoRl9j7hgnjlfX1r2XCNam49JXR58ZOnNS6o/Uq0+H+heMdPsta0ktqen30CXENzJdyIzK43jIVMZG7GO2MHpX5zerC8Xo0fVuNKfvNFTxTsi8KyQ+ebi1ibdF5ZBMbDA5HVcjgj8RmuO1rJ9ztg+Z3j2POrHTng8f/CudBvjTw3q53Hk8jI5618viZr2WKi9ffp6HZGd3G/9bHI/CFbHxZ4M+C4mYQ6zoXhzUvENtJzmaCSK6spUx25nhfP+zVY+VXC1sZyvScoxfk1yTXfdRaMYONVwb3jqvy/U+dbPUPHFt8PP2bR4AVJvEFx4Z8QZt52Xy3hM03n7gxCk+WGIz3AxyK+vn9VliMw+ut8inT9b20ta9l0PJg6jhQ9lq/e/Tz/Q7T9ncmTV/wBlC3aVxFNo3igvEM4Y+dKOQeDx6/jXJm09MytupU+3ZWXdHXgJz5sNd9Jemxn/AARifU/2XPD/AMTbYiXVPDHhbXPCTkH5/MmuoRagZ/upNI3sDWuO1zKeCl8M5wn8knf8vxJwbXsI1n9mMk/v0Nb4/wCmaLaaP4AllbWh4rHhfTwghWL+z/I8yXO4lg3m7s9Fxt281nlTquda1uRTa/vJ7K2mi8jpxlRcsU73suuh3H7RUdp4V8F/FG+06e81G/vjo+m6jaynZDpyGFXSZcZLbhtHbDMPTngyqVSriMNCfupc7TW8tbWfodGMmuSq022+VNdEc38cl8Px/tC6NZ2dzqw8V/2rpT3FvchBYiHK8xsG37/unp61tlbryyucml7PlnZq/Ns99lYwxUaTxMEr8149NLaf5l7xnoH/AAmHhP4qaWzSx+Z4zUROwYhXCKdw7gdORk+1PLq/s8bhJRtd0Xfva+n43HjYSnh8RF3S51a/fS5L8JFu9W8OT+Hdak8i/ijZ4ZifMhvYOm5edoIxyB6AnkmvtcTyKf1ilt+TPl4xlFOnP5eZ578dPhtdQWE2vI8dwtiY1G3lsY4xjsOn4V62BxUJWpPfc86vR0510NX4RftPah4J8FW+kpc3RgildolVIiEVjnHzH1JPvnPUmssblsa9b2nc9DDY3kppS1Pr/wACabea3rMzw/ZrmyltitzbTNgTbRgIOwbnIz7+lfF7e7bb8T1YNt897Lb5nnfxjg8T+B/hLrNho+omOyktrm2jmhjBlt0kzvRWIyoKkdD3PtXl0cvwdbGQqzjd3XXTTa6PVk5SpybXQ+N1+JXi7w5b+FdT0nWBDL4f0+XRLFUhQiO1mHzxtkfMSfm9sKe1fXTynB1PawnDSpJSfqtmu3b0PFdaaUZx3Wgq/Erxt8LfhbpvhrRfEJt9JuFniWF7aNriyjnIaeOOUjciu5bIB560VMnwOLxTxFWn7yt1dnbZtbO3S4pVamHoxhCW/wCB6b+xn/wl4sfs+r3a3Pw9lkksdG0yRUS4UXTFrqRLnaXhiWNJHIUjcxX3z8vxLHBwqc8Vaq9ZNf3dErbSd2l5WPRyuNapCUt6eyutbv8ARI6Xw7pumWtnq3gjwvdyaZ4F/tSS5j0qSBd8qKAEcs2WCER9SASQOeK7o0pTcMViVerypN/mS0oxcKfw3/I62+uPFWtWP9l2dyda0Oe2FuszxWpjgVWwEDKPMP3cA+rr15rKODwdObrL3Z3u9Xq35bGs6tVrkk/wOB1a61L4iXXjG1bxpa2Nzr8lto1/Y6tYyxpcGJAISpEZCkbVGflBPOegNTpRy9UpqhKShzSvFp8t9WnrcxjJ4jmj7RJysrNM7T4wePH1C41DwxB4g0fUvENnqFjNZzQWrJJGtoAZTNLgb3aZQQiH5QADnOK+fybAKcoYipTcabjO6b0fO9OVdlH7XVvyO7FV9HCM1zprTt3v80UrzxtrHiS2lW5v5ontp47i4hXS/NSRmYKzkLs8zoASDlcGvpsJlmFwkr04atWvfbW9jzquKq10uZ6F7xfYx6pZxQadqywarZmTUNNmmPMZABeE4GWj6Ajkgcdq9ajV5JOVSOnVfqjgqQ5o8sX5oz9O8T2Hivw9qFpIf7OufK8u4s3kLbZTGdp6cxkKGUjrXW4yo1IzTut/l/n3OG6lFpnx9e21zpd7cWhnRTBK8f3eDhiMjPavsrp+93PHXu6M/RrwNq+o6ZrD6xYXunWy2OHlF9OkZdSGyE3cnjcOPUV+X1bQV9b+Wp9TRvOTV1Z9zK/aK8cz+JLaTT9E06Rob5lP2qOIhZW6sgUHDcA9cZIHas8FCPtfa1Ha26/U+hlCUKXJDVv5o+JfFE9t4WXwxp9uEuJog13eJIPuy52lW57bBX1sOapzSe3Q+frNUfZxjutX6vT9CfwD8OJ/GnjKz03WrpYJbm9a6n05o3My2yJv3txhVYkAc9fQYrPEYhUIOcFfTR+f/AMI4eU3yVHZ6n0Dqaalc+HoNF0vVbPR7XUpdRklllh2wRQW8cYRQVOVQKGz69TwMV8BWVOWMniqtNzcFBJdbzbb0Z9hS55UY0IS5VJyb9Iqxn6FpcOj63qekA29+ll4dGpajfWxEsUjmPeFBAAKHKHvkN26VdXH1pYf21uWU6nLFWs7XS111d7mcMHD2yp3uowu2nu1f9GjZsfGeo+FNEknurYXzfZ0ubaxsAA8ayYIym0cgbT0J5PuK9WnOGJnLkdkpNXe2js7HDVi6XIp7tL8TNQa/pfjJ/E3iGO9Xw1aeXrDnUI2X7KsUJZo2YjA+cIox61xY7FYWvhZYXDTTqS9xWad7u19N7I1o4atCsp1otRXvO6fQxvCOi2ep+FINe1qC71PUvEWs21mFjuWt5bOG4uXiFySudzb42wTkEY45rlxmNxFGu8LhZKMaMJPVJqUoRTcddlbXy1NMPQoypKtX95ykl6Juyf4fqYq69YaBpVjqV1dmS2vvFsui3bNNJgwW6BZnRB/ETjtyF969SVbEYipKjQ0aoqcdFfml8N3fbou+5xQpYekoc+t6nK/8KX53O+8QeCr3w7q17dWfhma+0yGe1SzsNMmLJJcXODM+VLOkancWLYBHfFfO4bOJ1qMKMq/JN8zcmlpGOySdk5Psua3qevWy+hTqyq+z54rlSinu3vdq7SRy2tWVxpmpwa1pc48xbq4t7JWlz9ttopNjqxHDLuJ2N6r9a+0yrGfWofV6695Ri5abSkunnbfpqz5PMcLChNzov3W5cvmlZO/zej62Pn/AMWtJea1Nc2kBEExLgDggljkEHkHPUGvvoL3UpPY+TqfEz6r1vWbWC4t5L23e9slYGa3jk8tpEHVQ2OPrXyVGlJpqLs+560pxi056o7TTfEmh6ray3Xh2O6vL+yCO1vcPHugt+i+WJPvuGYA4BzxjvXiSwdaErV9E+vS59VDM6LpqOHW3TqeEeKP2c9R0rX7XV1hN5oOo3LX01/PMqy2sRfcFkUkAfvEKnHQHpnAPp08whOLov4krfMFl95xqrVN3fdHp/gjUNN+Inxa8ReLbGFLeOO0XTID5YBC7gAyt3B8s8+mO9edVjUw+FhQlq223/kXVlCtWc47rT/glHxBYXkPw7urWzisbaBI5oob52LyRWsgXzgMA7mbYOSO59ePN+rQni41Ztu/K3Ho2r2fyTOv2zUeW2uuvruXvBN/BFodxqlzaWNmbvTZovsys7Pqcdtb+SglxxDHlguFyWJ6cV8/jKcliI4eMm7Tjrp7jnK75dddnvskdlKXLBylGyt99lZehh2I1aHxBpGtXNgbm6ubwPdtZhvKgKqNqDH3cIE28YyPWvqHhKcsJPC05WSTSbV9+vnrc8pV2q/t5LXt+Fr+SMvxNq954X8vRtH0y51K31QzNqEuruLhdR2QsPs0hxhQVxyoB3EHoDUU8t+tXq4iaTjZRUVyqN+q6v5vbQcsZ7K8acbp78zvddvI3NB1ay8JaZpmu6PZw3F6llBaxabqU0sdyIS/mrFKgBjZ4mc7ZAQc8deK8mrgsRiqsqNduKbcnJJWbta6b1XMtJKzOyOJpUaaqUmnokk97dL+l9GcyniFrWxOiHwHbajp2gTLe6ckrSTkXDORI7sWzK53byr9cAdufbWTtydZ13GVRWlolddErXUe10eQ8wjy+ydFWg7q72f69yGztb2K/wDFFveRx+ILPxFH/al+LjUJLd3njTYHXyuQhBKsOnYDNddTARlGjKm+SVO8V7qlo/XrfVPr1ZzRxkl7RVFzqWrV7a9NvxOk0HQdU+KOtaLa6La26wywJBY2tqXSG3t0Byc+gK5LNyevPQ+ll+BWF5qS1k2229W3fv8A12POxuIlXmpWsrJJdkfSvw4/Ze8D6T4eaJtJsNfmed5ZdSvrTzfPdsFjH8w2xg/Koxzt3ZO7NfUyn7O0WeWoJ7nyX4g1Hfb8N2PSvMo09TKpO6M/wNrHh6w8R2sviayurvSAcyfY3AkjIIKsAeGwR909c+1bYqnWlRlGhK0vNXX/AABYepTp1VUqxuvWx9A+O/FEvivwdrFl4ds/IS5snt73T9XD3W1DGSJlTGUYAkgjp1HAzXwtGiqVdRq7d0+vqfospXpOcW/Lpoc98OtJPgrwzp+mPqMmobEQyPIApiIQfIDjouTgnr1rfEyVWbnY44XtGLd7aD/7Lv8AVNJ1y10O1hvrfTbeW5nti6lIrG2LC4ba3V8uykDJOeDxmrpUpTklbVK5UqsIW5+rsYfieS/0HRNFtHtItMj1ezTVtJtpPKzNalsh17rkAHDY5xxnFcyy6nTr/Wai95rf8P8AhvmOnieeLp30T1JbxYNXt9TtrV2tLLRLS01G51JXVlgZ5hCgYEjcNxIPJIzn2PfTi+V1bc1tGjCVSEZcq07CXU2reKLvVLnQlgTStEksJ2v5riOO0lFxL5AhmDN8m0kANztZQTx01p0o8t5ejXVdmc1Sryuz+Rw51bwdqfxFe4vXaF2t5dLupo5MxlmcSICOMA4YpKCV+Qg87c9CVSnRUY97r/I5lKMp80tNLGjq2o6db+I7i/sWtWl1jybaaVpXBuFAcAKB8ocEkjgfexnpjahF+yimvhOeo3ztdza0f4d6/J4x03wIPD76d4r0g/ZdTgsYY2ig3oJyDIMgRussbZU4yexFd0aE6jk2rrzOfnVovsfS3hj4fReEYbTwLptx/aOuXMK/27rAHzLBnIt0I+6GOc45IHOeMezRpww0HWtu9PN9/l0OWUnKy7H03oXhi10vSre2EQARQAB2rzW3J3ZR+PmuX2yHDcGuqnG70PNm9Dl473dxkg/WuqzTujDc9w+DHxD1ufTdcN1r8k8NrDHBBYXNoty0itkALI2WjC/e4B6cY618rmmEownT5aerb1vb+vU+my3FVZxqOVTRW0tc6K2vja3y2gjl8mK3SUzMpCFjwVB55+Vj36ivI5eeLn1ue58MlE3fhp4vtPBPifxHq95dW8Wjx6eIDDNKNssb3ts9yoJJJ/c+efcAemK7cLNQleb1a/U5sTF1Ix5Edzp/jbwxH8T/AA/rel+IrC00nStJtdEitWuoojPYR6tMp/eMrFkS2EUhiQAuHQEhS1ej7WMptcyt/wAE87klGNmn/SOfbxpokfg2y0iTxPoQ8MWh0hrnQFnjdlMfiNri7YwKNwRrXY2ejAAgcZqeePIn0f8AnYHCXN8Lv/wDXm+IOk3vizUr3xLfaBY3ctz4fTfDqw1EXVtFrskwMk3lorMsBViF3bEKgnKkVrzwu4prZGahJK9n1MD4e+PNHt/Cnh/T/Eeq2EOn2kuiPJo8yRyJDcRazdvO4wmSwt2hZx2Qr0GaaqQWiehHspvWxxHj7x1pvjX40+B9Z1fUdG/sOGK2+36xYasNTtmaK4uGYyXXlorSBRCOOmUUNkEDeFo1NdbGT0gpvY+o/D3xr8IXnwlj8WeEGW8m1JxBtcH7UbnaMRz7iWEgBH3ieORkYNezSj9Yn7z0Rhey0PQvgb4Fk0jSW1XUT52qXrmeeZurufT2HQfSuXFVvaztHZbFRVj1muMo/EjXblvNOelejTWh5EnqYs0aTqSo2cc4raOjIex9B22hweGvAvhnT7RfLhm0z+0ZrkEedJLISxJIA4UfKAc4A618ZVnKrXqTk9U7fL+mfZYanGnQgordXILa0kj1qXUTO+J0jt/JViAhidwWH+9u9OwrOytyW8/vOuzT5rjbi9SC11xDbxvbRmKSSPnLea5B59eMDGMcVFuZxl/Wh0Re5o3Gn2Ol2uj30cJIt4zbqrbTvEmwBm46qQOnUcZHWs1eTlG++v3Fq99PQh1WEafq+iwSQQTwXBNnICgDMcuUYtjJ2suQOnHfJq4WlGT7GTfLoczZwvqemanrFskMN1JHNp627qTBvExeOUrk8gMyn1DE8YArt5YxnGEuln96OKTbjzROd0+5Mek6XdWkccM2oTw3OpK6lkLtGgkMAzmMsWB64GOldsKXNzPta3pq0n5HI6mqS679jR/sRtK8KPplzezakY5mBuJ8BySxwTgcnBVSSeRGtKnNSrcyVl27E1qb9lyN6rqfTn7JvwPi0nTTqc155kGsTJdpYjLRw7dwDc/xncQT6BR2r1XVcY8q6nmKLvdn3Da2yWlvHCgAVFAGK5TQmoA//9k=",
+  "description": "The Raven sisters are all named after great cities: Savannah, Sydney, Paris, and Jakarta. When Savannah's husband, Dwayne, disappears, the sisters unite to help her get her life back together. The first order of business is to find Dwayne and make him answer for his abandonment. They hire a young, attractive private investigator, Anthony Martin, who is smitten with Savannah and takes a personal interest in finding her husband. Once Dwayne is located, Savannah confronts him and is finally able to let go of feelings for him. Right when she begins to move forward with her life and her relationship with Anthony, however, another tragedy befalls Savannah and her family. It is through this crisis that Anthony demonstrates his feelings for her by taking risks and solving a mystery that has kept Savannah's life on hold. Wilson-Harris' romance is about more than the love between a man and woman; it's also about the unconditional love of family.",
+  "createdAt": {
+    "$date": "2024-06-26T01:06:48.532Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-26T01:06:48.532Z"
+  },
+  "__v": 0,
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667b6b8ddfa8fa7ffef5d6bf"
+  },
+  "status": "active",
+  "title": "No Way",
+  "author": "S J Morden ",
+  "isbn": "978-1473222601",
+  "category": "science-fiction",
+  "publishedYear": 2019,
+  "thumbnail": "https://m.media-amazon.com/images/I/71QOpb9nSUL._SL1500_.jpg",
+  "description": "In the sequel to the science fiction thriller, ONE WAY, returning home from Mars may mean striking a deal with the very people who abandoned him.\nFrank Kitteridge is alone on Mars. But XO, the corporate architects of the first Mars base, made a costly mistake when they left him there: they left him alive. Using his skills and his wits, he's going to find a way back home even if it kills him.\nBut there are dangers on Mars even Frank isn't prepared for, and a mystery he has to solve in order to survive.\nIf there's anything in Frank's favour, it's this: he's always been prepared to go to the extremes to get the job done. That's how he ended up on Mars in the first place. It just might be his ticket back.",
+  "createdAt": {
+    "$date": "2024-06-26T01:14:53.222Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-27T02:22:17.957Z"
+  },
+  "__v": 0,
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0d423fd83607da98b6d3"
+  },
+  "title": "Taras Bulba",
+  "author": "Nikolái V. Gogol",
+  "isbn": "9788446023708",
+  "category": "Fiction",
+  "publishedYear": 2006,
+  "thumbnail": "http://books.google.com/books/content?id=XdMBTKWSfeMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Feroces, crueles, valientes y apasionados, los cosacos hacen temblar la estepa bajo los cascos de sus caballos. Y entre ellos se encuentra Taras Bulba, un anciano lleno aún de fuerza e inteligencia que junto a sus hijos, Ostap y Andrí, avanzará por tierras polacas con intención de vengar su fe ortodoxa burlada por los católicos. Ninguna guarnición, ciudad amurallada o iglesia podrán detenerlos, hasta que la desgracia se cierna sobre ellos y el apuesto y enamoradizo Andrí haga que su padre maldiga el día en que lo engendró. Taras Bulba, una anomalía entre la obra más conocida de Gogol, es una aventura trepidante, una sinfonía en perpetuo crescendo, en la que cada capítulo es más intenso y sorprendente que el anterior. un fresco tan afinadamente dibujado y tan vívido que resulta absolutamente intemporal.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0d423fd83607da98b6eb"
+  },
+  "title": "Aucassin & Nicolete",
+  "author": "Unknown",
+  "isbn": "IND:39000005690370",
+  "category": "Romance",
+  "publishedYear": 1887,
+  "thumbnail": "http://books.google.com/books/content?id=yvrWAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "No description available",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0d423fd83607da98b6ec"
+  },
+  "title": "Heartstopper: Volume 4: A Graphic Novel: Volume 4",
+  "author": "Alice Oseman",
+  "isbn": "1338617559",
+  "category": "Romance",
+  "publishedYear": 2022,
+  "thumbnail": "Unknown",
+  "description": "Heartstopper: Volume 4 was originally published in England by Hachette Children's Group in 2021.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0d423fd83607da98b6f4"
+  },
+  "title": "Alexander the Great",
+  "author": "Philip Freeman",
+  "isbn": "9781439193280",
+  "category": "History",
+  "publishedYear": 2011,
+  "thumbnail": "http://books.google.com/books/content?id=Br-Ho0rlFGwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "An accessible yet authoritative biography of the Macedonian king and legendary conqueror—“as racy and pacey as any novel . . . a rollicking read” (Wall Street Journal). Alexander the Great is one of the most enduring figures in history. His military mastery was of such renown that future leaders from Hannibal to Napoleon studied his strategy and tactics. In the brief spa of his life—crowned at age nineteen and dead by thirty-two—he established the greatest empire of the ancient world. Born into the royal family of Macedonia, Alexander was tutored by Aristotle as a boy. Shortly after taking command, he launched an invasion of the Persian empire, and continued his conquests as far south as the deserts of Egypt and as far east as the mountains of present-day Pakistan and the plains of India. Within a short time after Alexander’s death in Baghdad, his empire began to fracture. In his lively and authoritative biography of Alexander, classical scholar and historian Philip Freeman describes Alexander’s astonishing achievements and provides insight into the mercurial character of the great conqueror. As Freeman explains, without Alexander, the influence of Greece on the ancient world would not have been nearly as great as it was.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0d423fd83607da98b725"
+  },
+  "title": "Sport and Fitness",
+  "author": "Justin Healey",
+  "isbn": "1876811455",
+  "category": "Health and Fitness",
+  "publishedYear": 2000,
+  "thumbnail": "Unknown",
+  "description": "Examines the fitness levels and health risk status of the Australian population; the forms and levels of sports and physical activity in which we participate; and explores the relationship between lifestyle and health related actions involving weight, diet and exercise.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0d423fd83607da98b727"
+  },
+  "title": "Physical Activity for Health and Fitness",
+  "author": "Allen W. Jackson",
+  "isbn": "0736052054",
+  "category": "Health and Fitness",
+  "publishedYear": 2004,
+  "thumbnail": "http://books.google.com/books/content?id=51yQ9ori8mAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Through this book, you can learn to use the latest life-changing information to improve your fitness and enhance your quality of life.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0d423fd83607da98b72c"
+  },
+  "title": "Tony Robbins",
+  "author": "Tony Tobins",
+  "isbn": "1530182719",
+  "category": "Unknown",
+  "publishedYear": 2016,
+  "thumbnail": "Unknown",
+  "description": "Tony Robbins is a motivational speaker, a successful author and a peak performance coach. Do you need to boost confidence, be powerful and learn how abundant you are or are you struggling with something, then you need extra motivation and Tony Robbins is your man. He has inspired and motivated millions of people worldwide. This eBook will introduce you to his life and how he inspired and motivated people with this books, speeches, infomercials etc. It brings you 50 inspirational life lessons from Tony Robbins and you will know why he is the number one life coach in the world. 5 reasons you must buy this eBook1. To know who is Tony Robbins 2. To know about the books written by Tony Robbins 3. To learn motivations lessons from Tony Robbins 4. To learn inspirational lessons from Tony Robbins 5. To learn self help lessons from Tony Robbins To know more about this peak performance coach scroll up and click on the \"buy this eBook\" button now. Tags: Tony Robbins, Tony Robbins Book, Tony Robbins Ideas, Tony Robbins Words, Tony Robbins Wisdom",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0d423fd83607da98b73a"
+  },
+  "title": "The Life and Times of Fyodor Dostoyevsky",
+  "author": "Golgotha Press",
+  "isbn": "9781610427135",
+  "category": "Biography & Autobiography",
+  "publishedYear": 2013,
+  "thumbnail": "http://books.google.com/books/content?id=W3MWAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Fyodor Dostoyevsky spent his life exploring the troubled political, social and spiritual context of Russian; learn in this short book what inspired his own life.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0d423fd83607da98b752"
+  },
+  "title": "Black Women's Stories of Everyday Racism",
+  "author": "Simone Drake",
+  "isbn": "1032606606",
+  "category": "Biography & Autobiography",
+  "publishedYear": 2024,
+  "thumbnail": "http://books.google.com/books/content?id=qts80AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "Black Women's Stories of Everyday Racism puts literary narrative theory to work on an urgent real-world problem. The book calls attention to African American women's everyday experiences with systemic racism and demonstrates how four types of narrative theory can help generate strategies to explain and dismantle that racism. This volume presents fifteen stories told by eight midwestern African American women about their own experiences with casual and structural racism, followed by four detailed narratological analyses of the stories, each representing a different approach to narrative interpretation. The book makes a case for the need to hear the personal stories of these women and others like them as part of a larger effort to counter the systemic racism that prevails in the United States today. Readers will find that the women's stories offer powerful evidence that African Americans experience racism as an inescapable part of their day-to-day lives--and sometimes as a force that radically changes their lives. The stories provide experience-based demonstrations of how pervasive systemic racism is and how it perpetuates power differentials that are baked into institutions such as schools, law enforcement, the health care system, and business. Containing countless signs of the stress and trauma that accompany and follow from experiences of racism, the stories reveal evidence of the women's resilience as well as their unending need for it, as they continue to feel the negative effects of experiences that occurred many years ago. The four interpretive chapters note the complex skill involved in the women's storytelling. The analyses also point to the overall value of telling these stories: how they are sometimes cathartic for the tellers; how they highlight the importance of listening--and the likelihood of misunderstanding--and how, if they and other stories like them were heard more often, they would be a force to counteract the structural racism they so graphically expose. The Open Access version of this book, available at http: //www.taylorfrancis.com, has been made available under a Creative Commons Attribution (CC-BY) 4.0 license.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b7d7"
+  },
+  "title": "The Plague",
+  "author": "Albert Camus",
+  "isbn": "9780679720218",
+  "category": "Fiction",
+  "publishedYear": 1991,
+  "thumbnail": "http://books.google.com/books/content?id=KVGd-NabpW0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "“Its relevance lashes you across the face.” —Stephen Metcalf, The Los Angeles Times • “A redemptive book, one that wills the reader to believe, even in a time of despair.” —Roger Lowenstein, The Washington Post A haunting tale of human resilience and hope in the face of unrelieved horror, Albert Camus' iconic novel about an epidemic ravaging the people of a North African coastal town is a classic of twentieth-century literature. The townspeople of Oran are in the grip of a deadly plague, which condemns its victims to a swift and horrifying death. Fear, isolation and claustrophobia follow as they are forced into quarantine. Each person responds in their own way to the lethal disease: some resign themselves to fate, some seek blame, and a few, like Dr. Rieux, resist the terror. An immediate triumph when it was published in 1947, The Plague is in part an allegory of France's suffering under the Nazi occupation, and a timeless story of bravery and determination against the precariousness of human existence.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b7dc"
+  },
+  "title": "Why We Read Fiction",
+  "author": "Lisa Zunshine",
+  "isbn": "9780814210284",
+  "category": "Science Fiction",
+  "publishedYear": 2006,
+  "thumbnail": "http://books.google.com/books/content?id=BtdB2CcXazEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Why We Read Fiction offers a lucid overview of the most exciting area of research in contemporary cognitive psychology known as \"Theory of Mind\" and discusses its implications for literary studies. It covers a broad range of fictional narratives, from Richardson s Clarissa, Dostoyevski's Crime and Punishment, and Austen s Pride and Prejudice to Woolf's Mrs. Dalloway, Nabokov's Lolita, and Hammett s The Maltese Falcon. Zunshine's surprising new interpretations of well-known literary texts and popular cultural representations constantly prod her readers to rethink their own interest in fictional narrative. Written for a general audience, this study provides a jargon-free introduction to the rapidly growing interdisciplinary field known as cognitive approaches to literature and culture.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b7ea"
+  },
+  "title": "Crime and Punishment",
+  "author": "Fyodor Dostoyevsky",
+  "isbn": "0451519957",
+  "category": "Mystery",
+  "publishedYear": 1978,
+  "thumbnail": "http://books.google.com/books/content?id=d0ZuY2eGWLAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "Jessie Coulson's translation provides the text for the Third Edition of this acclaimed Norton Critical Edition.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b7eb"
+  },
+  "title": "Full Tilt",
+  "author": "Neal Shusterman",
+  "isbn": "9780689873256",
+  "category": "Thriller",
+  "publishedYear": 2004,
+  "thumbnail": "http://books.google.com/books/content?id=CQxnCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "When sixteen-year-old Blake goes to a mysterious, by-invitation-only carnival he somehow knows that it could save his comatose brother, but soon learns that much more is at stake if he fails to meet the challenge presented there by the beautiful Cassandra",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b80d"
+  },
+  "title": "Three Wishes",
+  "author": "Lisa Manifold",
+  "isbn": "1943530041",
+  "category": "Young Adult",
+  "publishedYear": 2015,
+  "thumbnail": "http://books.google.com/books/content?id=8WEejwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "No description available",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b815"
+  },
+  "title": "Shakespeare's A Midsummer Night's Dream",
+  "author": "William Shakespeare",
+  "isbn": "9780486139586",
+  "category": "Art",
+  "publishedYear": 2012,
+  "thumbnail": "http://books.google.com/books/content?id=ZC3DAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Shakespeare's romantic comedy takes on vivid life with these brilliant images by one of the 20th century's leading illustrators. Includes the complete play, along with 40 full-color and numerous black-and-white illustrations.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b821"
+  },
+  "title": "The Taming of the Shrew",
+  "author": "William Shakespeare",
+  "isbn": "1603037128",
+  "category": "Religion",
+  "publishedYear": 2008,
+  "thumbnail": "http://books.google.com/books/content?id=g3ddydbz6QoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Can a man tame an ill-tempered woman? Petruchio thinks he is up to the task in The Taming of the Shrew. William Shakespeare (1564 ż 1616) is the most influential writer in English history. Shakespeare has been called The Barb of Avon and Englandżs national poet. There are 2 narrative poems, 154 sonnets and 38 plays in his collected works. He began work as an actor and writer in London first writing comedies and historic plays. He later wrote tragedies. Romeo and Juliet, MacBeth and Othello are some of his more famous plays. The Taming of the Shrew was an early comedy. The play begins with a drunken man who is deceived into thinking he is a nobleman. He then watches this play in which the noble Petruchio married an outspoken ill-tempered woman. Katherine is eventually tamed to the will be Petruchio. The play has been adapted into opera, stage plays and screen plays. Cole Porterżs play Kiss Me Kate is one instance",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b831"
+  },
+  "title": "Unlimited Power",
+  "author": "Tony Robbins",
+  "isbn": "9781471105654",
+  "category": "Self-Help",
+  "publishedYear": 2012,
+  "thumbnail": "http://books.google.com/books/content?id=HAijkt9es_IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "NEW YORK TIMES BESTSELLING AUTHOR AND COACH TO MILLIONS BRINGS A TRANSFORMATIVE GUIDE TO HELP YOU ACHIEVE YOUR DREAMS. 'Tony's power is superhuman . . . He is a catalyst for getting people to change' Oprah Winfrey 'He has a great gift. He has the gift to inspire' Bill Clinton, former President of the United States 'Tony Robbins' coaching has made a remarkable difference in my life both on and off the court. He's helped me to discover what I'm really made of, and I've taken my tennis game - and my life - to a whole new level!' Serena Williams, 22-time Grand Slam tennis champion and Olympic gold medalist 'No matter who you are, no matter how successful, no matter how happy, Tony has something to offer you' Hugh Jackman, Emmy- and Tony Award-winning actor and producer If you have ever dreamed of a better life, Unlimited Power will show you how to achieve the extraordinary quality of life you desire and deserve, and how to master your personal and professional life. Tony Robbins has proven to millions through his books, tapes and seminars that by harnessing the power of your mind you can do, have, achieve and create anything you want for your life. He has shown heads of state, royalty, Olympic and professional athletes and film stars how to achieve. Unlimited Power is a revolutionary fitness book for the mind. It will show you, step by step, how to perform at your peak while gaining emotional and financial freedom, attaining leadership and self-confidence and winning the co-operation of others.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b832"
+  },
+  "title": "Awaken The Giant Within",
+  "author": "Tony Robbins",
+  "isbn": "9781471105661",
+  "category": "Self-Help",
+  "publishedYear": 2012,
+  "thumbnail": "http://books.google.com/books/content?id=iPpyLpX0Y1sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "‘Tony’s incredible understanding of the world, people and human nature make him the ultimate like coach. He knows what it takes to make people excel… and win!’ – Andre Agassi ‘Robbins is a mass of walking energy and passion.’ – Time Out Are you in charge of your life? Or are you being swept away by things that are seemingly out of your control? In AWAKEN THE GIANT WITHIN, Anthony Robbins, the bestselling author of UNLIMITED POWER, shows the reader how to take immediate control of their mental, emotional, physical and financial destiny. Further praise for Tony Robbins:- ‘A fascinating, intriguing presentation of cutting-edge findings and insights… including the growing consciousness that true success is anchored in enduring values and service to other.’ – Stephen R. Covey, Author of The 7 Habits of Highly Effective People",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b833"
+  },
+  "title": "Notes From A Friend",
+  "author": "Tony Robbins",
+  "isbn": "9780731807871",
+  "category": "Self-Help",
+  "publishedYear": 2011,
+  "thumbnail": "http://books.google.com/books/content?id=_J3NBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "NOTES FROM A FRIEND is a concise and easy-to-understand guide to the most powerful and life-changing tools and principles that make Anthony Robbins an international leader in peak performance. Based on the concepts and stories in the bestselling AWAKEN THE GIANT WITHIN and UNLIMITED POWER, Anthony Robbins shows us how quick and simple it can be to take charge of your life. 'Vintage Tony Robbins...It distils the complexity of human potential movement into one single but powerful idea' JAMES REDFIELD, THE CELESTINE PROPHECY 'Tony's warmth, passion, and commitment will inspire you to truly master your life and touch others in the process' KENNETH BLANCHARD, PH.D., AUTHOR OF THE ONE MINUTE MANGER",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b835"
+  },
+  "title": "Unlimited Power a Black Choice",
+  "author": "Tony Robbins",
+  "isbn": "9781439135617",
+  "category": "Self-Help",
+  "publishedYear": 2010,
+  "thumbnail": "http://books.google.com/books/content?id=wFLHfdFSVdYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Unlimited Power, the international bestseller by Anthony Robbins, has guided millions along the path to success. Now, in Unlimited Power: A Black Choice, Robbins and his longtime associate and friend Joseph McClendon III. an authority in the African-American community and Head Trainer for Robbins Research International, address the specific needs of African Americans in search of knowledge, courage, success, and a better quality of life. YES, YOU CAN BE, DO, HAVE, AND ACHIEVE THE THINGS YOU WANT IN LIFE! Robbins and McClendon here provide the inspiration and tools to help African Americans overcome roadblocks and cultural conditioning that might keep them from enjoying the life of their dreams. Step by step, Robbins and McClendon show how to eliminate fears and phobias, fuel the body with renewed health and energy, dramatically improve relationships, and become a persuasive communicator. Readers learn: * The seven lies of success * How to duplicate the success of others * The five keys to wealth and happiness * How to determine one's values * How to resolve inner conflicts that are the source of self-destructive behaviour * What they really want and how to achieve it With Unlimited Power: A Black Choice. Anthony Robbins and Joseph McClendon III have written a unique and dynamic book that will provide African Americans with a program for super success in all aspects of their lives.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b836"
+  },
+  "title": "Unshakeable",
+  "author": "Tony Robbins",
+  "isbn": "9781501164606",
+  "category": "Business & Economics",
+  "publishedYear": 2017,
+  "thumbnail": "http://books.google.com/books/content?id=k0_jDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Transform your financial life and accelerate your path to financial freedom with this step-by-step playbook to achieving your financial goals from the #1 New York Times bestseller of Money: Master the Game, Tony Robbins. Robbins, who has coached more than fifty million people from 100 countries, is the world’s #1 life and business strategist. In this book, he teams up with Peter Mallouk, the only man in history to be ranked the #1 financial advisor in the US for three consecutive years by Barron’s. Together they reveal how to become unshakeable—someone who can not only maintain true peace of mind in a world of immense uncertainty, economic volatility, and unprecedented change, but who can profit from the fear that immobilizes so many. In these pages, through plain English and inspiring stories, you’ll discover… -How to put together a simple, actionable plan that will deliver true financial freedom. -Strategies from the world’s top investors on how to protect yourself and your family and maximize profit from the inevitable crashes and corrections to come. -How a few simple steps can add a decade or more of additional retirement income by discovering what your 401(k) provider doesn’t want you to know. -The core four principles that most of the world’s greatest financial minds utilize so that you can maximize upside and minimize downside. -The fastest way to put money back in your pocket: uncover the hidden fees and half truths of Wall Street—how the biggest firms keep you overpaying for underperformance. -Master the mindset of true wealth and experience the fulfillment you deserve today. No matter your salary, your stage of life, or when you started, this book will provide the tools to help you achieve your financial goals more rapidly than you ever thought possible.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b837"
+  },
+  "title": "The Complete Works of William Shakespeare",
+  "author": "William Shakespeare",
+  "isbn": "185326895X",
+  "category": "Drama",
+  "publishedYear": 1996,
+  "thumbnail": "http://books.google.com/books/content?id=D02LWkkBxn4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Gathers all of Shakespeare's plays, sonnets, and poems.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b838"
+  },
+  "title": "HAMLET",
+  "author": "William Shakespeare",
+  "isbn": "9788027237142",
+  "category": "Biography & Autobiography",
+  "publishedYear": 2017,
+  "thumbnail": "http://books.google.com/books/content?id=fQ9kDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "The Tragedy of Hamlet, Prince of Denmark, written by William Shakespeare between 1599 and 1601, is set in Denmark and recounts how Prince Hamlet exacts revenge on his uncle Claudius, who murdered the King, takes the throne and marries Hamlet's mother. Life of William Shakespeare is a biography of William Shakespeare by the eminent critic Sidney Lee. This book was one of the first major biographies of the Bard of Avon. It was published in 1898, based on the article contributed to the Dictionary of National Biography. William Shakespeare (1564 – 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the \"Bard of Avon\". His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain. Sir Sidney Lee (1859 – 1926) was an English biographer and critic. He was a lifelong scholar and enthusiast of Shakespeare. His article on Shakespeare in the fifty-first volume of the Dictionary of National Biography formed the basis of his Life of William Shakespeare. This full-length life is often credited as the first modern biography of the poet.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b839"
+  },
+  "title": "Othello",
+  "author": "William Shakespeare",
+  "isbn": "9788027223824",
+  "category": "Biography & Autobiography",
+  "publishedYear": 2017,
+  "thumbnail": "http://books.google.com/books/content?id=KWdODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "\"The Tragedy of Othello, the Moor of Venice\" is a tragedy by William Shakespeare, believed to have been written in approximately 1603, and based on the Italian short story \"Un Capitano Moro\". The story, set in 16th-century Venice and Cyprus, tells about a black general in the Italian army, Othello, and what happened between him and his wife, Desdemona. The main villain in this play is Iago; who is a soldier under Othello's command. Iago tells Othello numerous lies about Desdemona and Othello's friend, and former right-hand man, Cassio. \"Life of William Shakespeare\" is a biography of William Shakespeare by the eminent critic Sidney Lee. This book was one of the first major biographies of the Bard of Avon. It was published in 1898, based on the article contributed to the Dictionary of National Biography. William Shakespeare (1564 – 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the \"Bard of Avon\". His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain. Sir Sidney Lee (1859 – 1926) was an English biographer and critic. He was a lifelong scholar and enthusiast of Shakespeare. His article on Shakespeare in the fifty-first volume of the Dictionary of National Biography formed the basis of his Life of William Shakespeare. This full-length life is often credited as the first modern biography of the poet.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b83a"
+  },
+  "title": "William Shakespeare",
+  "author": "William Shakespeare",
+  "isbn": "1586635565",
+  "category": "Drama",
+  "publishedYear": 1989,
+  "thumbnail": "http://books.google.com/books/content?id=RMdM6zQap8cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "But thy eternal summer shall not fade Nor lose possession of that fair thou ow'st; Nor shall Death brag thou wander'st in his shade, When in eternal lines to time thou grow'st: So long as men can breathe, or eyes can see, So long lives this, and this gives life to thee. -- from Sonnet 18 No home should be without this: every play, from the early histories to the sad, wise Winter's Tale and The Tempest; every exquisitely crafted sonnet; every long poem (such as Venus and Adonis and The Rape of Lucrece) written by the greatest writer in the English language. This edition of the Bard of Avon's complete works is a facsimile of the definitive Shakespeare Head edition published originally in Oxford, England. All the plays are arranged in chronological order of their composition, rather than by genre, so that the evolution of Shakespeare's monumental genius can be more easily followed and appreciated.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b83b"
+  },
+  "title": "The Dramatic Works of William Shakespeare: Some account of the life, &c. of William Shakespeare",
+  "author": "William Shakespeare",
+  "isbn": "HARVARD:HWDR18",
+  "category": "Unknown",
+  "publishedYear": 1820,
+  "thumbnail": "http://books.google.com/books/content?id=y4EoAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "No description available",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b83c"
+  },
+  "title": "King Lear",
+  "author": "William Shakespeare",
+  "isbn": "EAN:8596547002369",
+  "category": "Biography & Autobiography",
+  "publishedYear": 2022,
+  "thumbnail": "http://books.google.com/books/content?id=V_dyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "King Lear is a tragedy by William Shakespeare written between 1603 and 1606 and later revised. Shakespeare's earlier version, The True Chronicle of the History of the Life and Death of King Lear and His Three Daughters, was published in quarto in 1608. The Tragedy of King Lear, a more theatrical version, was included in the 1623 First Folio. The title character descends into madness after disposing of his estate between two of his three daughters based on their flattery, bringing tragic consequences for all. The play is based on the legend of Leir of Britain, a mythological pre-Roman Celtic king. Life of William Shakespeare is a biography of William Shakespeare by the eminent critic Sidney Lee. This book was one of the first major biographies of the Bard of Avon. It was published in 1898, based on the article contributed to the Dictionary of National Biography. William Shakespeare (1564 – 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the \"Bard of Avon\". His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain. Sir Sidney Lee (1859 – 1926) was an English biographer and critic. He was a lifelong scholar and enthusiast of Shakespeare. His article on Shakespeare in the fifty-first volume of the Dictionary of National Biography formed the basis of his Life of William Shakespeare. This full-length life is often credited as the first modern biography of the poet.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b83d"
+  },
+  "title": "THE COMPLETE WORKS OF FYODOR DOSTOYEVSKY",
+  "author": "Fyodor Dostoyevsky",
+  "isbn": "9788027200986",
+  "category": "Fiction",
+  "publishedYear": 2017,
+  "thumbnail": "http://books.google.com/books/content?id=rGNODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "This unique collection of Fyodor Dostoyevsky's complete works has been formatted to the highest digital standards and adjusted for readability on all devices. Fyodor Dostoyevsky (1821-1881) was a Russian novelist, short story writer, essayist, journalist and philosopher. His literary works explore human psychology in the troubled political, social, and spiritual atmosphere of 19th-century Russia. Many of his works contain a strong emphasis on Christianity, and its message of absolute love, forgiveness and charity, explored within the realm of the individual, confronted with all of life's hardships and beauty. His major works include Crime and Punishment, The Idiot, Demons and The Brothers Karamazov. Many literary critics rate him as one of the greatest and most prominent psychologists in world literature. His novella Notes from Underground is considered to be one of the first works of existentialist literature. NOVELS: Netochka Nezvanova The Village of Stepanchikovo The Insulted and Humiliated The House of the Dead Crime and Punishment The Idiot The Possessed (Demons) The Raw Youth (The Adolescent) The Brothers Karamazov NOVELLAS: Poor Folk The Double The Landlady Uncle's Dream Notes from Underground The Gambler The Permanent Husband SHORT STORIES: The Grand Inquisitor (Chapter from The Brothers Karamazov) Mr. Prohartchin A Novel in Nine Letters Another Man's Wife or, The Husband under the Bed A Faint Heart Polzunkov The Honest Thief The Christmas Tree and The Wedding White Nights A Little Hero An Unpleasant Predicament (A Nasty Story) The Crocodile Bobok The Heavenly Christmas Tree A Gentle Spirit The Peasant Marey The Dream of a Ridiculous Man LETTERS: Letters of Fyodor Michailovitch Dostoyevsky to his Family and Friends BIOGRAPHY: Fyodor Dostoyevsky, A Study by Aimée Dostoyevsky",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b83e"
+  },
+  "title": "Fyodor Dostoyevsky: Memoirs, Letters and Autobiographical Works",
+  "author": "Fyodor Dostoyevsky",
+  "isbn": "EAN:8596547802181",
+  "category": "Biography & Autobiography",
+  "publishedYear": 2024,
+  "thumbnail": "http://books.google.com/books/content?id=xRvmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "This carefully crafted ebook: \"Fyodor Dostoyevsky: Memoirs, Letters and Autobiographical Works\" is formatted for your eReader with a functional and detailed table of contents. Fyodor Dostoyevsky (1821-1881) was a Russian novelist, short story writer, essayist, journalist and philosopher. His literary works explore human psychology in the troubled political, social, and spiritual atmosphere of 19th-century Russia. Many of his works contain a strong emphasis on Christianity, and its message of absolute love, forgiveness and charity, explored within the realm of the individual, confronted with all of life's hardships and beauty. His major works include Crime and Punishment (1866), The Idiot (1869), Demons (1872) and The Brothers Karamazov (1880). Many literary critics rate him as one of the greatest and most prominent psychologists in world literature. His novella Notes from Underground is considered to be one of the first works of existentialist literature. Table of Contents: BIOGRAPHY: Fyodor Dostoyevsky, A Study by Aimée Dostoyevsky LETTERS AND MEMOIRS: Letters of Fyodor Michailovitch Dostoyevsky to His Family and Friends Pages from the Journal of an Author, Fyodor Dostoevsky AUTOBIOGRAPHICAL NOVELS: The House of the Dead The Gambler",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b83f"
+  },
+  "title": "Fyodor Dostoyevsky, Masterpieces",
+  "author": "Fyodor Dostoyevsky",
+  "isbn": "1500473650",
+  "category": "Fiction",
+  "publishedYear": 2014,
+  "thumbnail": "http://books.google.com/books/content?id=sXinoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "Fyodor Mikhailovich Dostoyevsky (1821 - 188) was a Russian novelist, short story writer, essayist, journalist and philosopher. Dostoyevsky's literary works explore human psychology in the context of the troubled political, social, and spiritual atmosphere of 19th-century Russia. He began writing in his 20s, and his first novel, Poor Folk, was published in 1846 when he was 25. His major works include Crime and Punishment and The Brothers Karamazov (1880). His output consists of eleven novels, three novellas, seventeen short novels and numerous other works. Many literary critics rate him as one of the greatest and most prominent psychologists in world literature. In this book: The Brothers Karamazov Crime and Punishment Translator: Constance Garnett",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b840"
+  },
+  "title": "Crime and Punishment - Fyodor Dostoyevsky",
+  "author": "Fyodor Dostoyevsky",
+  "isbn": "9783985518746",
+  "category": "Fiction",
+  "publishedYear": 2021,
+  "thumbnail": "http://books.google.com/books/content?id=F_EsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Crime and Punishment (pre-reform Russian; post-reform Russian: is a novel by the Russian author Fyodor Dostoevsky. It was first published in the literary journal The Russian Messenger in twelve monthly installments during 1866. It was later published in a single volume. It is the second of Dostoevsky's full-length novels following his return from ten years of exile in Siberia. Crime and Punishment is considered the first great novel of his \"mature\" period of writing. The novel is often cited as one of the supreme achievements in literature.Crime and Punishment focuses on the mental anguish and moral dilemmas of Rodion Raskolnikov, an impoverished ex-student in Saint Petersburg who formulates a plan to kill an unscrupulous pawnbroker for her money. Before the killing, Raskolnikov believes that with the money he could liberate himself from poverty and go on to perform great deeds. However, once it is done he finds himself racked with confusion, paranoia, and disgust for his actions. His justifications disintegrate completely as he struggles with guilt and horror and confronts the real-world consequences of his deed.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b841"
+  },
+  "title": "The Works of Fyodor Dostoyevsky (Annotated with critical essays and Biography)",
+  "author": "Fyodor Dostoyevsky",
+  "isbn": "9781610427128",
+  "category": "Fiction",
+  "publishedYear": 2013,
+  "thumbnail": "http://books.google.com/books/content?id=EXMWAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "The works of Fyodor Dostoyevsky are collected in this huge anthology of novels, stories, and novella's. This anthology also includes a short biography about Dostoyevsky, and essays about each of his major works. Works include: Bobok The Brothers Karamazov The Christmas Tree and the Wedding Crime and Punishment The Crocodile The Double The Dream of the Ridiculous Man The Gambler A Gentle Spirit The Grand Inquisitor The Idiot The Little Orphan Notes from the Underground Poor Folk The Possessed The Thief",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b843"
+  },
+  "title": "Scythe",
+  "author": "Neal Shusterman",
+  "isbn": "9781442472440",
+  "category": "Young Adult Fiction",
+  "publishedYear": 2016,
+  "thumbnail": "http://books.google.com/books/content?id=xZudBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "A Time Best YA Book of All Time (2021) Two teens must learn the “art of killing” in this Printz Honor–winning book, the first in a chilling new series from Neal Shusterman, author of the New York Times bestselling Unwind dystology. A world with no hunger, no disease, no war, no misery: humanity has conquered all those things, and has even conquered death. Now Scythes are the only ones who can end life—and they are commanded to do so, in order to keep the size of the population under control. Citra and Rowan are chosen to apprentice to a scythe—a role that neither wants. These teens must master the “art” of taking life, knowing that the consequence of failure could mean losing their own. Scythe is the first novel of a thrilling new series by National Book Award–winning author Neal Shusterman in which Citra and Rowan learn that a perfect world comes only with a heavy price.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b844"
+  },
+  "title": "Dry",
+  "author": "Neal Shusterman",
+  "isbn": "9781481481977",
+  "category": "Young Adult Fiction",
+  "publishedYear": 2019,
+  "thumbnail": "http://books.google.com/books/content?id=8e_1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "“The authors do not hold back.” —Booklist (starred review) “The palpable desperation that pervades the plot…feels true, giving it a chilling air of inevitability.” —Publishers Weekly (starred review) “The Shustermans challenge readers.” —School Library Journal (starred review) “No one does doom like Neal Shusterman.” —Kirkus Reviews (starred review) When the California drought escalates to catastrophic proportions, one teen is forced to make life and death decisions for her family in this harrowing story of survival from New York Times bestselling author Neal Shusterman and Jarrod Shusterman. The drought—or the Tap-Out, as everyone calls it—has been going on for a while now. Everyone’s lives have become an endless list of don’ts: don’t water the lawn, don’t fill up your pool, don’t take long showers. Until the taps run dry. Suddenly, Alyssa’s quiet suburban street spirals into a warzone of desperation; neighbors and families turned against each other on the hunt for water. And when her parents don’t return and her life—and the life of her brother—is threatened, Alyssa has to make impossible choices if she’s going to survive.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b845"
+  },
+  "title": "The Toll",
+  "author": "Neal Shusterman",
+  "isbn": "9781481497060",
+  "category": "Young Adult Fiction",
+  "publishedYear": 2019,
+  "thumbnail": "http://books.google.com/books/content?id=D920DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "In the highly anticipated finale to the New York Times bestselling trilogy, dictators, prophets, and tensions rise. In a world that’s conquered death, will humanity finally be torn asunder by the immortal beings it created? Citra and Rowan have disappeared. Endura is gone. It seems like nothing stands between Scythe Goddard and absolute dominion over the world scythedom. With the silence of the Thunderhead and the reverberations of the Great Resonance still shaking the earth to its core, the question remains: Is there anyone left who can stop him? The answer lies in the Tone, the Toll, and the Thunder.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b846"
+  },
+  "title": "Game Changer",
+  "author": "Neal Shusterman",
+  "isbn": "9780062465771",
+  "category": "Young Adult Fiction",
+  "publishedYear": 2021,
+  "thumbnail": "http://books.google.com/books/content?id=_tnHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "\"A timely, speculative thought experiment in perspective, privilege, and identity.\" —Kirkus \"The conceit behind Shusterman’s latest is truly unique. While it exhibits the author’s usual storytelling aplomb, it also manages to delve into more serious and timely subject matter, such as racism, sexism, and homophobia. Despite these heavy topics, the story still moves at a lively pace and, thanks to a zany sci-fi twist, manages to pack in a few laughs as well.\" —Booklist All it takes is one hit on the football field, and suddenly Ash’s life doesn’t look quite the way he remembers it. Impossible though it seems, he’s been hit into another dimension—and keeps on bouncing through worlds that are almost-but-not-really his own. The changes start small, but they quickly spiral out of control as Ash slides into universes where he has everything he’s ever wanted, universes where society is stuck in the past…universes where he finds himself looking at life through entirely different eyes. And if he isn’t careful, the world he’s learning to see more clearly could blink out of existence… This high-concept novel from the National Book Award-winning and New York Times-bestselling author of the Arc of a Scythe series tackles the most urgent themes of our time, making this a must-buy for readers who are starting to ask big questions about their own role in the universe.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b847"
+  },
+  "title": "Courage to Dream: Tales of Hope in the Holocaust",
+  "author": "Neal Shusterman",
+  "isbn": "9781338129403",
+  "category": "Young Adult Fiction",
+  "publishedYear": 2023,
+  "thumbnail": "http://books.google.com/books/content?id=AvxXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Sydney Taylor Honor Award winner National Jewish Book Award finalist Neal Shusterman, Margaret A. Edwards Award Winner National Book Award winner Neal Shusterman and acclaimed illustrator Andrés Vera Martínez present a graphic novel exploring the Holocaust through surreal visions and a textured canvas of heroism and hope. Courage to Dream plunges readers into the Holocaust - one of the greatest atrocities in human history - delving into the core of what it means to face the extinction of everything and everyone you hold dear. This gripping, multifaceted tapestry is woven from Jewish folklore and cultural history. Five interlocking narratives explore one common story - the tradition of resistance and uplift. Neal Shusterman and Andrés Vera Martínez are internationally renowned creators who have collaborated on a masterwork that encourages the compassionate, bold reaching for a dream.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b848"
+  },
+  "title": "UnBound",
+  "author": "Neal Shusterman",
+  "isbn": "1536400637",
+  "category": "Unknown",
+  "publishedYear": 2016,
+  "thumbnail": "http://books.google.com/books/content?id=p1xszQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "Presents a collection of stories about Connor, Risa, and Lev after they have destroyed the Proactive Citizenry and are, apparently, free to live in a peaceful future.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b84a"
+  },
+  "title": "Forgotten Wishes",
+  "author": "Lisa Manifold",
+  "isbn": "1945878088",
+  "category": "Unknown",
+  "publishedYear": 2018,
+  "thumbnail": "http://books.google.com/books/content?id=gu1sswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "A djinn can only do so much... Dhameer is a freelancing djinn who seeks to grant wishes of the heart for people he encounters. When he comes across Xavier Reede, better known as bad boy rapper XTC, he is touched by the longing he hears in Xavier's wish. Dhameer pays Xavier a visit, pleased to help another person find their happiness. However, Xavier, living up to his reputation - all but throws Dhameer's offer back in the djinn's face. Despite Xavier's terrible behavior, Dhameer decides to keep his word and grant the rapper his wish. But there's a catch. Xavier won't remember the wish, nor Dhameer's offer to help. Which wouldn't be a catastrophe, except Dhameer has made it so Xavier can find exactly what he needs to quiet the longing in his heart. Trouble is, our bad boy rapper only sees what he wants to see. The success of this wish hinges on Xavier's ability to get out of his own way. Can Xavier do things differently this time so he can get his heart's desire? Because money, fame, and success will only take him so far... Forgotten Wishes is book two in the Djinn Everlasting series.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b84b"
+  },
+  "title": "To Wed the Goblin King",
+  "author": "Lisa Manifold",
+  "isbn": "1945878002",
+  "category": "Unknown",
+  "publishedYear": 2016,
+  "thumbnail": "http://books.google.com/books/content?id=j16SvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "Iris and Brennan are finally together, as they want to be. But there's more in their way. All they want to do is wed and begin their lives with one another.Unfortunately, their families, their friends, and their entire worlds conspire against them.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b84c"
+  },
+  "title": "One Night at the Ball",
+  "author": "Lisa Manifold",
+  "isbn": "1943530025",
+  "category": "Unknown",
+  "publishedYear": 2015,
+  "thumbnail": "http://books.google.com/books/content?id=QuQ4jgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "A tale of the night that sets in motion the events of the Sisters Of The Curse series...Catrin is the beloved, pampered child of the King of Nandrenay. Her childhood seemed idyllic, but it was all a lie. She is on the cusp of adulthood when she discovers that one hasty decision made by her father many years before has falsely shaped her world, and Catrin has no choice but to seek the truth. In her search, she finds that there is nothing simple about a lie, and the lies she'd been told most of her life will have far reaching consequences.Her family's betrayal in the wake of her father's decision sends her down a path of spiraling destruction.One Night At The Ball is the story of how even lies told for the very best of reasons can go horribly wrong.It all begins One Night At The Ball.A Sisters Of The Curse Novella",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b84d"
+  },
+  "title": "Heart of the Goblin King",
+  "author": "Lisa Manifold",
+  "isbn": "194353005X",
+  "category": "Unknown",
+  "publishedYear": 2016,
+  "thumbnail": "http://books.google.com/books/content?id=R6jyjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "Brennan The King of the Goblin Realm finds himself facing his greatest challenge he's faced since he came to the throne. A rogue sorcerer is raising an army of Brennan's own subjects against him threatening the peace Brennan has worked so hard to create for his people. Iris Iris never expected to be whisked away to the Goblin Realm from a stadium bathroom. All she wants is to get away from the obviously crazy man with the sword. Iris has her own problems and being trapped in a land she still can't believe isn't helping any of them. Her goal is to get back to her family and her potential new boyfriend. Though Brennan and Iris try to ignore the attraction between them, when they must make a choice will they continue to deny their feelings or will they take the step that will change their lives and the lives of everyone around them? What will it take to win The Heart Of The Goblin King?",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b84e"
+  },
+  "title": "Casimir's Journey",
+  "author": "Lisa Manifold",
+  "isbn": "1943530033",
+  "category": "Unknown",
+  "publishedYear": 2015,
+  "thumbnail": "http://books.google.com/books/content?id=Ibg-jgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "Casimir is finding life to be more difficult than he expected, especially given that he'd been more or less dead until a witch decided he deserved another chance at living.But only if he'll do without his true love.Catrin, the powerful sorceress who brought him back to life, has a grudge against her parents and will stop at nothing to keep Casimir away from their daughter. Casimir, on the other hand, wants nothing more than to return to Thea and the life they planned to have together.Will Casimir be able to overcome the increasingly difficult obstacles put in his path, or will Catrin's enduring need for vengeance keep him away from the life he has chosen? Follow Casimir as he struggles to regain control of his own destiny and prove to Catrin that letting go of old injustices and fighting for love is the path to happiness.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b84f"
+  },
+  "title": "Committed Writings",
+  "author": "Albert Camus",
+  "isbn": "9780241400418",
+  "category": "Philosophy",
+  "publishedYear": 2020,
+  "thumbnail": "http://books.google.com/books/content?id=N0HNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "'To create today means to create dangerously' This new collection contains some of Camus' most brilliant political writing as he reflects on moral responsibility and the role of the artist in the world. Letters to a German Friend, written and published underground during the Nazi occupation of France, was born out of Camus' experience in the Resistance and explores what it truly means to love your country. Reflections on the Guillotine, his impassioned polemic against the death penalty, became a touchstone for the movement to abolish capital punishment, while in his Nobel speeches Camus argues that the artist must engage with dangerous times. Together these powerful pieces express Camus' mistrust of rigid ideologies, and his commitment to human solidarity. 'Probably no European writer of his time left so deep a mark on the imagination' Conor Cruise O'Brien",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b850"
+  },
+  "title": "Albert Camus, 1913-1960",
+  "author": "Albert Camus",
+  "isbn": "UOM:39015000551450",
+  "category": "Unknown",
+  "publishedYear": 1960,
+  "thumbnail": "http://books.google.com/books/content?id=99UmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "No description available",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b851"
+  },
+  "title": "Personal Writings",
+  "author": "Albert Camus",
+  "isbn": "9780241400296",
+  "category": "Literary Collections",
+  "publishedYear": 2020,
+  "thumbnail": "http://books.google.com/books/content?id=yEDNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "'It was the discovery of the essays celebrating his childhood and youth that altered my perception of Camus, from a thinker to a writer whose intellectual lucidity was a product of the wealth - the sensual immediacy and clarity - that had been heaped on his senses' Geoff Dyer Albert Camus was born in a 'world of poverty and sunshine' in Algeria, which would infuse all of his work. This new collection brings together three volumes of Camus' most intimate autobiographical writings for the first time. The Wrong Side and the Right Side, his first book, describes his family and his early years in a working-class neighbourhood. Nuptials rejoices in the sensuality of sun, landscape and sea, while Summer ranges over the cities of Algiers and Oran, nature and identity. Lyrical and emotional, these pieces enrich our understanding of Camus and his love of life.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b852"
+  },
+  "title": "Albert Camus, the Essential Writings",
+  "author": "Albert Camus",
+  "isbn": "STANFORD:36105035656904",
+  "category": "Fiction",
+  "publishedYear": 1979,
+  "thumbnail": "http://books.google.com/books/content?id=sLUqAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "No description available",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b853"
+  },
+  "title": "The Collected Fiction of Albert Camus",
+  "author": "Albert Camus",
+  "isbn": "OCLC:319824470",
+  "category": "Unknown",
+  "publishedYear": 1960,
+  "thumbnail": "Unknown",
+  "description": "No description available",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b854"
+  },
+  "title": "Speaking Out",
+  "author": "Albert Camus",
+  "isbn": "9780241400371",
+  "category": "Literary Collections",
+  "publishedYear": 2021,
+  "thumbnail": "http://books.google.com/books/content?id=ecUZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "A new collection of Albert Camus' most brilliant speeches and lectures 'Freedom is dangerous, as hard to live as it is exalting...' This definitive new collection of Albert Camus' public speeches and lectures gives a compelling insight into one of the twentieth century's most enduring writers. From a pre-war speech on the politics of the Mediterranean - delivered when he was just twenty-two - to his impassioned Nobel Prize acceptance lectures and several pieces appearing in English for the first time, Speaking Out shows Camus' clarity and subtlety of thought, his 'stubborn humanism' and his unerring commitment to freedom and justice. Translated by Quintin Hoare",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b856"
+  },
+  "title": "The Secret Life of Literature",
+  "author": "Lisa Zunshine",
+  "isbn": "9780262367646",
+  "category": "Science",
+  "publishedYear": 2022,
+  "thumbnail": "http://books.google.com/books/content?id=VV0zEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "An innovative account that brings together cognitive science, ethnography, and literary history to examine patterns of “mindreading” in a wide range of literary works. For over four thousand years, writers have been experimenting with what cognitive scientists call “mindreading”: constantly devising new social contexts for making their audiences imagine complex mental states of characters and narrators. In The Secret Life of Literature, Lisa Zunshine uncovers these mindreading patterns, which have, until now, remained invisible to both readers and critics, in works ranging from The Epic of Gilgamesh to Invisible Man. Bringing together cognitive science, ethnography, and literary studies, this engaging book transforms our understanding of literary history. Central to Zunshine’s argument is the exploration of mental states “embedded” within each other, as, for instance, when Ellison’s Invisible Man is aware of how his white Communist Party comrades pretend not to understand what he means, when they want to reassert their position of power. Paying special attention to how race, class, and gender inform literary embedments, Zunshine contrasts this dynamic with real-life patterns studied by cognitive and social psychologists. She also considers community-specific mindreading values and looks at the rise and migration of embedment patterns across genres and national literary traditions, noting particularly the use of deception, eavesdropping, and shame as plot devices. Finally, she investigates mindreading in children’s literature. Stories for children geared toward different stages of development, she shows, provide cultural scaffolding for initiating young readers into a long-term engagement with the secret life of literature.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b857"
+  },
+  "title": "Getting Inside Your Head",
+  "author": "Lisa Zunshine",
+  "isbn": "9781421408750",
+  "category": "Literary Criticism",
+  "publishedYear": 2012,
+  "thumbnail": "http://books.google.com/books/content?id=tgAsOMBIT3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "Using the psychological concept called theory of mind, Lisa Zunshine explores the appeal of movies, novels, paintings, musicals, and reality television. Winner of the CHOICE Outstanding Academic Title of the Choice ACRL We live in other people's heads: avidly, reluctantly, consciously, unaware, mistakenly, and inescapably. Our social life is a constant negotiation among what we think we know about each other's thoughts and feelings, what we want each other to think we know, and what we would dearly love to know but don't. Cognitive scientists have a special term for the evolved cognitive adaptation that makes us attribute mental states to other people through observation of their body language; they call it theory of mind. Getting Inside Your Head uses research in theory of mind to look at movies, musicals, novels, classic Chinese opera, stand-up comedy, mock-documentaries, photography, and reality television. It follows Pride and Prejudice’s Mr. Darcy as he tries to conceal his anger, Tyler Durden as he lectures a stranger at gunpoint in Fight Club, and Ingrid Bergman as she fakes interest in horse races in Notorious. This engaging book exemplifies the new interdisciplinary field of cognitive cultural studies, demonstrating that collaboration between cognitive science and cultural studies is both exciting and productive.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b858"
+  },
+  "title": "Strange Concepts and the Stories They Make Possible",
+  "author": "Lisa Zunshine",
+  "isbn": "9781421406701",
+  "category": "Literary Criticism",
+  "publishedYear": 2008,
+  "thumbnail": "http://books.google.com/books/content?id=c5vuNSQGSkoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "description": "In this fresh and often playful interdisciplinary study, Lisa Zunshine presents a fluid discussion of how key concepts from cognitive science complicate our cultural interpretations of “strange” literary phenomena. From Short Circuit to I, Robot, from The Parent Trap to Big Business, fantastic tales of rebellious robots, animated artifacts, and twins mistaken for each other are a permanent fixture in popular culture and have been since antiquity. Why do these strange concepts captivate the human imagination so thoroughly? Zunshine explores how cognitive science, specifically its ideas of essentialism and functionalism, combined with historical and cultural analysis, can help us understand why we find such literary phenomena so fascinating. Drawing from research by such cognitive evolutionary anthropologists and psychologists as Scott Atran, Paul Bloom, Pascal Boyer, and Susan A. Gelman, Zunshine examines the cognitive origins of the distinction between essence and function and how unexpected tensions between these two concepts are brought into play in fictional narratives. Discussing motifs of confused identity and of twins in drama, science fiction’s use of robots, cyborgs, and androids, and nonsense poetry and surrealist art, she reveals the range and power of key concepts from science in literary interpretation and provides insight into how cognitive-evolutionary research on essentialism can be used to study fiction as well as everyday strange concepts.",
+  "count": 0,
+  "damaged": 0
+},
+{
+  "_id": {
+    "$oid": "667e0e5c3fd83607da98b859"
+  },
+  "title": "Bastards Foundlings",
+  "author": "Lisa Zunshine",
+  "isbn": "0814254551",
+  "category": "Literary Criticism",
+  "publishedYear": 2017,
+  "thumbnail": "http://books.google.com/books/content?id=9IrhswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+  "description": "In this compelling interdisciplinary study of what has been called the \"century of illegitimacy,\" Lisa Zunshine seeks to uncover the multiplicity of cultural meanings of illegitimacy in the English Enlightenment. Bastards and Foundlings pits the official legal views on illegitimacy against the actual everyday practices that frequently circumvented the law; it reconstructs the history of social institutions called upon to regulate illegitimacy, such as the London Foundling Hospital; and it examines a wide array of novels and plays written in response to the same concerns that informed the emergence and functioning of such institutions. By recreating the context of the national preoccupation with bas-tardy, with a special emphasis on the gender of the fictional bastard/foundling, Zunshine offers new readings of \"canonical\" texts, such as Steele's The Conscious Lovers, Defoe's Moll Flanders, Fielding's Tom Jones, Moore's The Foundling, Colman's The English Merchant, Richardson's Clarissa and Sir Charles Grandison, Burney's Evelina, Smith's Emmeline, Edgewort's Belinda, and Austen's Emma, as well as of less well-known works, such as Haywood's The Fortunate Foundlings, Shebbeare's The Marriage Act, Bennett's The Beggar Girl and Her Benefactors, and Robinson's The Natural Daughter.",
+  "count": 0,
+  "damaged": 0
+}]
